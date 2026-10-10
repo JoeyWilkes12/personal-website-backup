@@ -1,0 +1,146 @@
+{
+  "name": "Joseph Wilkes",
+  "displayName": "Joey Wilkes",
+  "site": "https://joey-wilkes12-website-2026-10-04-static.replit.app",
+  "version": "1.0.1",
+  "focus": [
+    "Data",
+    "AI",
+    "Engineering"
+  ],
+  "websites": [
+    {
+      "title": "How well can AI models play Queens?",
+      "category": "AI Evals",
+      "description": "Extensive computational & scientific assessment of various AI models ability to play logical puzzle Queens",
+      "url": "https://joeywilkes12.github.io/queens-model-assessment/#/executive-summary"
+    },
+    {
+      "title": "FinOps FOCUS Explorer",
+      "category": "Cloud Cost Management",
+      "description": "A cost dashboard, data explorer, and live use case queries over the FinOps FOCUS 1.0 sample billing data from Amazon Web Services (AWS), Microsoft Azure, Oracle Cloud Infrastructure (OCI), and Google Cloud Platform (GCP).",
+      "url": "https://joeywilkes12.github.io/finops-focus-router/"
+    },
+    {
+      "title": "Agent Skills Resource Library",
+      "category": "AI agents",
+      "description": "Resources and guides for building, troubleshooting, and evaluating AI agent skills.",
+      "url": "https://joeywilkes12.github.io/agent-skills-resource-library/"
+    },
+    {
+      "title": "Whiteley Reunion 2026",
+      "category": "Family history",
+      "description": "A reunion hub for genealogy, schedules, food planning, and shared files.",
+      "url": "https://joeywilkes12.github.io/4amj-landing-page-01/"
+    }
+  ],
+  "academicReports": [
+    {
+      "title": "Learning Using Thinned Networks: A Crowdsourcing Phenomena in Reservoir Computing",
+      "url": "https://joey-wilkes12-website-2026-10-04-static.replit.app/academic-experience/reservoir-thinning/",
+      "pdf": "https://joey-wilkes12-website-2026-10-04-static.replit.app/assets/reports/reservoir-thinning.pdf",
+      "authors": [
+        "J. Jamieson",
+        "D. J. Passey",
+        "B. Webb",
+        "J. Wilkes"
+      ],
+      "documentDate": "2022-04-15",
+      "pageCount": 15
+    },
+    {
+      "title": "RISK Data Project Fall 2020",
+      "url": "https://joey-wilkes12-website-2026-10-04-static.replit.app/academic-experience/risk-game-prediction/",
+      "pdf": "https://joey-wilkes12-website-2026-10-04-static.replit.app/assets/reports/risk-game-prediction.pdf",
+      "authors": [
+        "Jacob Murri",
+        "Joseph Wilkes",
+        "Caleb Wilson",
+        "Lukas Erekson"
+      ],
+      "documentDate": "2020-12-10",
+      "pageCount": 17
+    },
+    {
+      "title": "A Natural Language Processing Analysis of General Conference Discourses Employing Time-Series and Classification Models",
+      "url": "https://joey-wilkes12-website-2026-10-04-static.replit.app/academic-experience/general-conference-nlp/",
+      "pdf": "https://joey-wilkes12-website-2026-10-04-static.replit.app/assets/reports/general-conference-nlp.pdf",
+      "authors": [
+        "Clark Brown",
+        "Mikelle Rogers",
+        "Daniel Swingle",
+        "Joseph Wilkes",
+        "Caleb Wilson"
+      ],
+      "documentDate": "2021-04-15",
+      "pageCount": 17
+    },
+    {
+      "title": "Let's All Go To The Movies",
+      "url": "https://joey-wilkes12-website-2026-10-04-static.replit.app/academic-experience/prediction-movie-revenue/",
+      "pdf": "https://joey-wilkes12-website-2026-10-04-static.replit.app/assets/reports/prediction-movie-revenue.pdf",
+      "authors": [
+        "Joseph Wilkes",
+        "Jacob Rohde",
+        "Pauline Caussé"
+      ],
+      "documentDate": "2019",
+      "pageCount": 6
+    },
+    {
+      "title": "Non-Trivial Evasion",
+      "url": "https://joey-wilkes12-website-2026-10-04-static.replit.app/academic-experience/non-trivial-evasion/",
+      "pdf": "https://joey-wilkes12-website-2026-10-04-static.replit.app/assets/reports/non-trivial-evasion.pdf",
+      "authors": [
+        "Taylor Gledhill",
+        "Joseph Wilkes",
+        "Raelynn Wonnacott",
+        "Nathan Nelson"
+      ],
+      "documentDate": "2021-04",
+      "pageCount": 10
+    },
+    {
+      "title": "Non-Trivial Pursuit",
+      "url": "https://joey-wilkes12-website-2026-10-04-static.replit.app/academic-experience/non-trivial-pursuit/",
+      "pdf": "https://joey-wilkes12-website-2026-10-04-static.replit.app/assets/reports/non-trivial-pursuit.pdf",
+      "authors": [
+        "Taylor Gledhill",
+        "Joseph Wilkes",
+        "Raelynn Wonnacott",
+        "Nathan Nelson"
+      ],
+      "documentDate": "2020-12",
+      "pageCount": 10
+    },
+    {
+      "title": "Evaluation of Childhood Computational Thinking with ScratchJR and Robot Toys: A Literature Review",
+      "url": "https://joey-wilkes12-website-2026-10-04-static.replit.app/academic-experience/literature-review/",
+      "pdf": "https://joey-wilkes12-website-2026-10-04-static.replit.app/assets/reports/literature-review.pdf",
+      "authors": [
+        "Joseph Wilkes"
+      ],
+      "documentDate": null,
+      "pageCount": 16
+    }
+  ],
+  "resume": "https://joey-wilkes12-website-2026-10-04-static.replit.app/resume/",
+  "certifications": "https://joeywilkes12.github.io/certifications-site/",
+  "recommendations": {
+    "count": 5,
+    "quoteOnly": true,
+    "automaticRotation": false,
+    "source": "shared-assets/testimonials/approved-quotes.json"
+  },
+  "source": {
+    "resume": {
+      "pdf": "joseph-wilkes-resume.pdf",
+      "pdfDate": "2026-10-06",
+      "retrievedDate": "2026-10-09",
+      "latestExperienceEndDate": "2026-09"
+    },
+    "content": "Imperial 3.0 / workspace shared-assets",
+    "design": "2026-07-29_v1.0.0",
+    "designSystem": "design-system/"
+  }
+}

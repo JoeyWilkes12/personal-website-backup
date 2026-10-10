@@ -1,0 +1,19 @@
+# Joey Wilkes
+
+Data, AI, and engineering portfolio. Four websites, seven academic reports, certifications, résumé, and five recommendations.
+
+- [Home](https://joey-wilkes12-website-2026-10-04-static.replit.app/)
+- [Portfolio](https://joey-wilkes12-website-2026-10-04-static.replit.app/portfolio/)
+- [Professional experience](https://joey-wilkes12-website-2026-10-04-static.replit.app/professional-experience/)
+- [Academic experience](https://joey-wilkes12-website-2026-10-04-static.replit.app/academic-experience/)
+- [Résumé](https://joey-wilkes12-website-2026-10-04-static.replit.app/resume/)
+- [Reservoir Thinning](https://joey-wilkes12-website-2026-10-04-static.replit.app/academic-experience/reservoir-thinning/)
+- [RISK Game Prediction](https://joey-wilkes12-website-2026-10-04-static.replit.app/academic-experience/risk-game-prediction/)
+- [General Conference NLP](https://joey-wilkes12-website-2026-10-04-static.replit.app/academic-experience/general-conference-nlp/)
+- [Predicting Movie Revenue](https://joey-wilkes12-website-2026-10-04-static.replit.app/academic-experience/prediction-movie-revenue/)
+- [Non-Trivial Evasion](https://joey-wilkes12-website-2026-10-04-static.replit.app/academic-experience/non-trivial-evasion/)
+- [Non-Trivial Pursuit](https://joey-wilkes12-website-2026-10-04-static.replit.app/academic-experience/non-trivial-pursuit/)
+- [Childhood Computational Thinking](https://joey-wilkes12-website-2026-10-04-static.replit.app/academic-experience/literature-review/)
+
+Machine-readable profile: https://joey-wilkes12-website-2026-10-04-static.replit.app/profile.json
+Source résumé record ends in September 2026.
