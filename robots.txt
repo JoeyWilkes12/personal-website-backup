@@ -1,5 +1,5 @@
 User-Agent: *
 Allow: /
 
-Host: https://joey-wilkes12-website-2026-10-04-static.replit.app
-Sitemap: https://joey-wilkes12-website-2026-10-04-static.replit.app/sitemap.xml
+Host: https://joey-wilkes.replit.app
+Sitemap: https://joey-wilkes.replit.app/sitemap.xml

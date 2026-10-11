@@ -1,7 +1,7 @@
 {
   "name": "Joseph Wilkes",
   "displayName": "Joey Wilkes",
-  "site": "https://joey-wilkes12-website-2026-10-04-static.replit.app",
+  "site": "https://joey-wilkes.replit.app",
   "version": "1.0.1",
   "focus": [
     "Data",
@@ -37,8 +37,8 @@
   "academicReports": [
     {
       "title": "Learning Using Thinned Networks: A Crowdsourcing Phenomena in Reservoir Computing",
-      "url": "https://joey-wilkes12-website-2026-10-04-static.replit.app/academic-experience/reservoir-thinning/",
-      "pdf": "https://joey-wilkes12-website-2026-10-04-static.replit.app/assets/reports/reservoir-thinning.pdf",
+      "url": "https://joey-wilkes.replit.app/academic-experience/reservoir-thinning/",
+      "pdf": "https://joey-wilkes.replit.app/assets/reports/reservoir-thinning.pdf",
       "authors": [
         "J. Jamieson",
         "D. J. Passey",
@@ -50,8 +50,8 @@
     },
     {
       "title": "RISK Data Project Fall 2020",
-      "url": "https://joey-wilkes12-website-2026-10-04-static.replit.app/academic-experience/risk-game-prediction/",
-      "pdf": "https://joey-wilkes12-website-2026-10-04-static.replit.app/assets/reports/risk-game-prediction.pdf",
+      "url": "https://joey-wilkes.replit.app/academic-experience/risk-game-prediction/",
+      "pdf": "https://joey-wilkes.replit.app/assets/reports/risk-game-prediction.pdf",
       "authors": [
         "Jacob Murri",
         "Joseph Wilkes",
@@ -63,8 +63,8 @@
     },
     {
       "title": "A Natural Language Processing Analysis of General Conference Discourses Employing Time-Series and Classification Models",
-      "url": "https://joey-wilkes12-website-2026-10-04-static.replit.app/academic-experience/general-conference-nlp/",
-      "pdf": "https://joey-wilkes12-website-2026-10-04-static.replit.app/assets/reports/general-conference-nlp.pdf",
+      "url": "https://joey-wilkes.replit.app/academic-experience/general-conference-nlp/",
+      "pdf": "https://joey-wilkes.replit.app/assets/reports/general-conference-nlp.pdf",
       "authors": [
         "Clark Brown",
         "Mikelle Rogers",
@@ -77,8 +77,8 @@
     },
     {
       "title": "Let's All Go To The Movies",
-      "url": "https://joey-wilkes12-website-2026-10-04-static.replit.app/academic-experience/prediction-movie-revenue/",
-      "pdf": "https://joey-wilkes12-website-2026-10-04-static.replit.app/assets/reports/prediction-movie-revenue.pdf",
+      "url": "https://joey-wilkes.replit.app/academic-experience/prediction-movie-revenue/",
+      "pdf": "https://joey-wilkes.replit.app/assets/reports/prediction-movie-revenue.pdf",
       "authors": [
         "Joseph Wilkes",
         "Jacob Rohde",
@@ -89,8 +89,8 @@
     },
     {
       "title": "Non-Trivial Evasion",
-      "url": "https://joey-wilkes12-website-2026-10-04-static.replit.app/academic-experience/non-trivial-evasion/",
-      "pdf": "https://joey-wilkes12-website-2026-10-04-static.replit.app/assets/reports/non-trivial-evasion.pdf",
+      "url": "https://joey-wilkes.replit.app/academic-experience/non-trivial-evasion/",
+      "pdf": "https://joey-wilkes.replit.app/assets/reports/non-trivial-evasion.pdf",
       "authors": [
         "Taylor Gledhill",
         "Joseph Wilkes",
@@ -102,8 +102,8 @@
     },
     {
       "title": "Non-Trivial Pursuit",
-      "url": "https://joey-wilkes12-website-2026-10-04-static.replit.app/academic-experience/non-trivial-pursuit/",
-      "pdf": "https://joey-wilkes12-website-2026-10-04-static.replit.app/assets/reports/non-trivial-pursuit.pdf",
+      "url": "https://joey-wilkes.replit.app/academic-experience/non-trivial-pursuit/",
+      "pdf": "https://joey-wilkes.replit.app/assets/reports/non-trivial-pursuit.pdf",
       "authors": [
         "Taylor Gledhill",
         "Joseph Wilkes",
@@ -115,8 +115,8 @@
     },
     {
       "title": "Evaluation of Childhood Computational Thinking with ScratchJR and Robot Toys: A Literature Review",
-      "url": "https://joey-wilkes12-website-2026-10-04-static.replit.app/academic-experience/literature-review/",
-      "pdf": "https://joey-wilkes12-website-2026-10-04-static.replit.app/assets/reports/literature-review.pdf",
+      "url": "https://joey-wilkes.replit.app/academic-experience/literature-review/",
+      "pdf": "https://joey-wilkes.replit.app/assets/reports/literature-review.pdf",
       "authors": [
         "Joseph Wilkes"
       ],
@@ -124,7 +124,7 @@
       "pageCount": 16
     }
   ],
-  "resume": "https://joey-wilkes12-website-2026-10-04-static.replit.app/resume/",
+  "resume": "https://joey-wilkes.replit.app/resume/",
   "certifications": "https://joeywilkes12.github.io/certifications-site/",
   "recommendations": {
     "count": 5,
