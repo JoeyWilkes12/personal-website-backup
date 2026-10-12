@@ -13,25 +13,49 @@
       "title": "How well can AI models play Queens?",
       "category": "AI Evals",
       "description": "Extensive computational & scientific assessment of various AI models ability to play logical puzzle Queens",
-      "url": "https://joeywilkes12.github.io/queens-model-assessment/#/executive-summary"
+      "url": "https://joeywilkes12.github.io/queens-model-assessment/#/executive-summary",
+      "tags": [
+        "Jev",
+        "OpenRouter"
+      ]
     },
     {
       "title": "FinOps FOCUS Explorer",
       "category": "Cloud Cost Management",
       "description": "A cost dashboard, data explorer, and live use case queries over the FinOps FOCUS 1.0 sample billing data from Amazon Web Services (AWS), Microsoft Azure, Oracle Cloud Infrastructure (OCI), and Google Cloud Platform (GCP).",
-      "url": "https://joeywilkes12.github.io/finops-focus-router/"
+      "url": "https://joeywilkes12.github.io/finops-focus-router/",
+      "tags": [
+        "Forecasting",
+        "time-series",
+        "Prophet",
+        "SQL",
+        "IT Financial Management",
+        "Cost Anomaly detection"
+      ]
     },
     {
       "title": "Agent Skills Resource Library",
       "category": "AI agents",
       "description": "Resources and guides for building, troubleshooting, and evaluating AI agent skills.",
-      "url": "https://joeywilkes12.github.io/agent-skills-resource-library/"
+      "url": "https://joeywilkes12.github.io/agent-skills-resource-library/",
+      "tags": [
+        "MCP",
+        "Skills for AI agents",
+        "skill.md"
+      ]
     },
     {
       "title": "Whiteley Reunion 2026",
       "category": "Family history",
       "description": "A reunion hub for genealogy, schedules, food planning, and shared files.",
-      "url": "https://joeywilkes12.github.io/4amj-landing-page-01/"
+      "url": "https://joeywilkes12.github.io/4amj-landing-page-01/",
+      "tags": [
+        "Consulting",
+        "Web development",
+        "Design",
+        "Codex",
+        "GitHub"
+      ]
     }
   ],
   "academicReports": [
@@ -126,6 +150,405 @@
   ],
   "resume": "https://joey-wilkes.replit.app/resume/",
   "certifications": "https://joeywilkes12.github.io/certifications-site/",
+  "credentials": {
+    "page": "https://joey-wilkes.replit.app/professional-experience/",
+    "certificationsSite": "https://joeywilkes12.github.io/certifications-site/",
+    "checkedOn": "2026-10-01",
+    "completed": [
+      {
+        "title": "Professional Machine Learning Engineer",
+        "issuer": "Google Cloud",
+        "kind": "Professional certification",
+        "categories": [
+          "AI & machine learning",
+          "Cloud"
+        ],
+        "completedOn": "2024-12-31",
+        "expiresOn": "2026-12-31",
+        "verificationUrl": "https://www.credly.com/badges/dd6728ed-f889-4051-a53e-6bad93a51584/public_url",
+        "page": "https://joey-wilkes.replit.app/professional-experience/certifications/google-ml/"
+      },
+      {
+        "title": "AWS Certified AI Practitioner",
+        "issuer": "Amazon Web Services",
+        "kind": "Foundational certification",
+        "categories": [
+          "AI & machine learning",
+          "Cloud"
+        ],
+        "completedOn": "2026-01-30",
+        "verificationUrl": "https://www.credly.com/badges/2f2ec1ba-f2bd-40f1-b322-ec79e414ae00/public_url",
+        "page": "https://joey-wilkes.replit.app/professional-experience/certifications/aws-ai/"
+      },
+      {
+        "title": "FinOps Certified Engineer",
+        "issuer": "FinOps Foundation",
+        "kind": "Certification",
+        "categories": [
+          "FinOps & cloud cost"
+        ],
+        "completedOn": "2024-06-13",
+        "verificationUrl": "https://verify.skilljar.com/c/ckaxerie5ww8",
+        "page": "https://joey-wilkes.replit.app/professional-experience/certifications/finops-engineer/"
+      },
+      {
+        "title": "FinOps Certified FOCUS Analyst",
+        "issuer": "FinOps Foundation",
+        "kind": "Certification",
+        "categories": [
+          "FinOps & cloud cost"
+        ],
+        "completedOn": "2025-02-05",
+        "verificationUrl": "https://www.credly.com/badges/9ae9171a-a842-4896-bb27-c874d06f53fc/public_url",
+        "page": "https://joey-wilkes.replit.app/professional-experience/certifications/focus-analyst/"
+      },
+      {
+        "title": "Azure Fundamentals",
+        "issuer": "Microsoft",
+        "kind": "Foundational certification",
+        "categories": [
+          "Cloud"
+        ],
+        "completedOn": "2023-11-29",
+        "verificationUrl": "https://learn.microsoft.com/api/credentials/share/en-us/JoeyWilkes-1001/AD3D2D6ABEDDDC66?sharingId=3F32F982CE31032D",
+        "page": "https://joey-wilkes.replit.app/professional-experience/certifications/azure-fundamentals/"
+      },
+      {
+        "title": "Cloud GreenOps Philosopher",
+        "issuer": "Greenpixie",
+        "kind": "Certification",
+        "categories": [
+          "Sustainability"
+        ],
+        "completedOn": "2026-05-28",
+        "verificationUrl": "https://www.credly.com/badges/f3b7ed7e-91b1-4d14-b83b-4163beddfebc/public_url",
+        "page": "https://joey-wilkes.replit.app/professional-experience/certifications/greenops/"
+      },
+      {
+        "title": "Introduction to agent skills",
+        "issuer": "Anthropic Education",
+        "kind": "Course completion",
+        "categories": [
+          "AI & machine learning"
+        ],
+        "completedOn": "2026-07-08",
+        "verificationUrl": "https://verify.skilljar.com/c/i4mdmrt77b6o",
+        "page": "https://joey-wilkes.replit.app/professional-experience/certifications/anthropic-skills/"
+      },
+      {
+        "title": "Introduction to FOCUS",
+        "issuer": "FinOps Foundation",
+        "kind": "Course completion",
+        "categories": [
+          "FinOps & cloud cost"
+        ],
+        "completedOn": "2024-08-19",
+        "verificationUrl": "https://verify.skilljar.com/c/888zd885g2hd",
+        "page": "https://joey-wilkes.replit.app/professional-experience/certifications/focus-intro/"
+      },
+      {
+        "title": "FinOps Certified Practitioner",
+        "issuer": "FinOps Foundation",
+        "kind": "Certification",
+        "categories": [
+          "FinOps & cloud cost"
+        ],
+        "completedOn": "2022-11-05",
+        "issuerStatus": "expired",
+        "verificationUrl": "https://www.credly.com/badges/b2709299-45c8-4883-9665-503758019a86/public_url",
+        "page": "https://joey-wilkes.replit.app/professional-experience/certifications/finops-practitioner/"
+      },
+      {
+        "title": "FinOps for Containers",
+        "issuer": "FinOps Foundation",
+        "kind": "Training",
+        "categories": [
+          "FinOps & cloud cost"
+        ],
+        "completedOn": "2023-10-18",
+        "issuerStatus": "expired",
+        "verificationUrl": "https://www.credly.com/badges/2f5bba5f-1d07-4b70-91b7-13f988059f1d/public_url",
+        "page": "https://joey-wilkes.replit.app/professional-experience/certifications/finops-containers/"
+      },
+      {
+        "title": "AI Value: Introduction",
+        "issuer": "FinOps Foundation",
+        "kind": "Course completion",
+        "categories": [
+          "FinOps & cloud cost",
+          "AI & machine learning"
+        ],
+        "completedOn": null,
+        "source": "https://learn.finops.org/path/certified-finops-for-ai",
+        "page": "https://joey-wilkes.replit.app/professional-experience/certifications/ai-value-introduction/"
+      }
+    ],
+    "inProgress": [
+      {
+        "title": "AI Value (FinOps for AI)",
+        "issuer": "FinOps Foundation",
+        "kind": "Certification pathway",
+        "status": "in-progress",
+        "source": "https://learn.finops.org/path/certified-finops-for-ai",
+        "page": "https://joey-wilkes.replit.app/professional-experience/certifications/ai-value/"
+      },
+      {
+        "title": "AI Value: Level 1",
+        "issuer": "FinOps Foundation",
+        "kind": "Training course",
+        "status": "in-progress",
+        "source": "https://learn.finops.org/path/certified-finops-for-ai",
+        "page": "https://joey-wilkes.replit.app/professional-experience/certifications/ai-value-l1/"
+      },
+      {
+        "title": "AI Value: Level 2",
+        "issuer": "FinOps Foundation",
+        "kind": "Training course",
+        "status": "to-do",
+        "source": "https://learn.finops.org/path/certified-finops-for-ai",
+        "page": "https://joey-wilkes.replit.app/professional-experience/certifications/ai-value-l2/"
+      },
+      {
+        "title": "AI Value: Level 3",
+        "issuer": "FinOps Foundation",
+        "kind": "Training course",
+        "status": "to-do",
+        "source": "https://learn.finops.org/path/certified-finops-for-ai",
+        "page": "https://joey-wilkes.replit.app/professional-experience/certifications/ai-value-l3/"
+      },
+      {
+        "title": "AI Value: Certification course",
+        "issuer": "FinOps Foundation",
+        "kind": "Certification course & exam",
+        "status": "to-do",
+        "source": "https://learn.finops.org/path/certified-finops-for-ai",
+        "page": "https://joey-wilkes.replit.app/professional-experience/certifications/ai-value-final/"
+      },
+      {
+        "title": "GreenOps for AI",
+        "issuer": "Greenpixie",
+        "kind": "Training course",
+        "status": "in-progress",
+        "source": "https://academy.greenpixie.com/course/cloud-greenops-for-ai",
+        "page": "https://joey-wilkes.replit.app/professional-experience/certifications/greenops-ai/"
+      }
+    ],
+    "googleSkillsBadges": {
+      "count": 17,
+      "profile": "https://www.skills.google/public_profiles/96cc2ec8-2aa7-4b78-ab59-7bf58f012703",
+      "page": "https://joey-wilkes.replit.app/professional-experience/#google-skills-badges",
+      "badges": [
+        {
+          "title": "Create Generative AI Apps on Google Cloud",
+          "earnedOn": "2025-01-06",
+          "verificationUrl": "https://www.skills.google/public_profiles/96cc2ec8-2aa7-4b78-ab59-7bf58f012703/badges/13507882?locale=en"
+        },
+        {
+          "title": "ML Pipelines on Google Cloud",
+          "earnedOn": "2024-12-30",
+          "verificationUrl": "https://www.skills.google/public_profiles/96cc2ec8-2aa7-4b78-ab59-7bf58f012703/badges/13459426?locale=en"
+        },
+        {
+          "title": "Responsible AI for Developers: Privacy & Safety",
+          "earnedOn": "2024-12-28",
+          "verificationUrl": "https://www.skills.google/public_profiles/96cc2ec8-2aa7-4b78-ab59-7bf58f012703/badges/13437596?locale=en"
+        },
+        {
+          "title": "Responsible AI for Developers: Fairness & Bias",
+          "earnedOn": "2024-12-28",
+          "verificationUrl": "https://www.skills.google/public_profiles/96cc2ec8-2aa7-4b78-ab59-7bf58f012703/badges/13437117?locale=en"
+        },
+        {
+          "title": "Build a Certification Study Guide: PMLE",
+          "earnedOn": "2024-12-20",
+          "verificationUrl": "https://www.skills.google/public_profiles/96cc2ec8-2aa7-4b78-ab59-7bf58f012703/badges/13350496?locale=en"
+        },
+        {
+          "title": "Responsible AI for Developers: Interpretability & Transparency",
+          "earnedOn": "2024-12-18",
+          "verificationUrl": "https://www.skills.google/public_profiles/96cc2ec8-2aa7-4b78-ab59-7bf58f012703/badges/13310262?locale=en"
+        },
+        {
+          "title": "Machine Learning Operations (MLOps) with Agent Platform: Model Evaluation",
+          "earnedOn": "2024-10-18",
+          "verificationUrl": "https://www.skills.google/public_profiles/96cc2ec8-2aa7-4b78-ab59-7bf58f012703/badges/12200410?locale=en"
+        },
+        {
+          "title": "Machine Learning Operations (MLOps) for Generative AI",
+          "earnedOn": "2024-10-11",
+          "verificationUrl": "https://www.skills.google/public_profiles/96cc2ec8-2aa7-4b78-ab59-7bf58f012703/badges/12004413?locale=en"
+        },
+        {
+          "title": "Attention Mechanism",
+          "earnedOn": "2024-08-29",
+          "verificationUrl": "https://www.skills.google/public_profiles/96cc2ec8-2aa7-4b78-ab59-7bf58f012703/badges/10957550?locale=en"
+        },
+        {
+          "title": "Enterprise Search on Generative AI App Builder",
+          "earnedOn": "2024-08-15",
+          "verificationUrl": "https://www.skills.google/public_profiles/96cc2ec8-2aa7-4b78-ab59-7bf58f012703/badges/10599248?locale=en"
+        },
+        {
+          "title": "Introduction to Vertex Forecasting and Time Series in Practice",
+          "earnedOn": "2024-07-28",
+          "verificationUrl": "https://www.skills.google/public_profiles/96cc2ec8-2aa7-4b78-ab59-7bf58f012703/badges/10116015?locale=en",
+          "personalRating": 4.5
+        },
+        {
+          "title": "Vector Search and Embeddings",
+          "earnedOn": "2024-05-10",
+          "verificationUrl": "https://www.skills.google/public_profiles/96cc2ec8-2aa7-4b78-ab59-7bf58f012703/badges/8966122?locale=en",
+          "personalRating": 4
+        },
+        {
+          "title": "Machine Learning Operations (MLOps): Getting Started",
+          "earnedOn": "2024-05-03",
+          "verificationUrl": "https://www.skills.google/public_profiles/96cc2ec8-2aa7-4b78-ab59-7bf58f012703/badges/8860380?locale=en"
+        },
+        {
+          "title": "Machine Learning in the Enterprise",
+          "earnedOn": "2024-04-30",
+          "verificationUrl": "https://www.skills.google/public_profiles/96cc2ec8-2aa7-4b78-ab59-7bf58f012703/badges/8802703?locale=en"
+        },
+        {
+          "title": "Launching into Machine Learning",
+          "earnedOn": "2024-01-19",
+          "verificationUrl": "https://www.skills.google/public_profiles/96cc2ec8-2aa7-4b78-ab59-7bf58f012703/badges/7098470?locale=en"
+        },
+        {
+          "title": "Introduction to AI and Machine Learning on Google Cloud",
+          "earnedOn": "2023-12-14",
+          "verificationUrl": "https://www.skills.google/public_profiles/96cc2ec8-2aa7-4b78-ab59-7bf58f012703/badges/6641725?locale=en"
+        },
+        {
+          "title": "Introduction to Generative AI",
+          "earnedOn": "2023-12-09",
+          "verificationUrl": "https://www.skills.google/public_profiles/96cc2ec8-2aa7-4b78-ab59-7bf58f012703/badges/6574865?locale=en"
+        }
+      ]
+    },
+    "linkedinLearning": {
+      "count": 19,
+      "page": "https://joey-wilkes.replit.app/professional-experience/#linkedin-learning",
+      "certificates": [
+        {
+          "title": "Decision Intelligence",
+          "earnedOn": "2023-09-29",
+          "duration": "1 hour 25 minutes",
+          "pdf": "https://joey-wilkes.replit.app/assets/linkedin-learning/decision-intelligence.pdf",
+          "favorite": true
+        },
+        {
+          "title": "LLMs for Enterprise: Technical Protocols, Considerations, and Data Privacy",
+          "earnedOn": "2024-08-20",
+          "duration": "15 minutes",
+          "pdf": "https://joey-wilkes.replit.app/assets/linkedin-learning/llms-for-enterprise-technical-protocols-considerations-and-data-privacy.pdf"
+        },
+        {
+          "title": "Managing AI Security Risks with ISO 27001",
+          "earnedOn": "2024-08-16",
+          "duration": "1 hour 29 minutes",
+          "pdf": "https://joey-wilkes.replit.app/assets/linkedin-learning/managing-ai-security-risks-with-iso-27001.pdf"
+        },
+        {
+          "title": "Use Copilot AI for Secure Work Data in Your Organization",
+          "earnedOn": "2024-08-15",
+          "duration": "18 minutes",
+          "pdf": "https://joey-wilkes.replit.app/assets/linkedin-learning/use-copilot-ai-for-secure-work-data-in-your-organization.pdf"
+        },
+        {
+          "title": "Securing the Use of Generative AI in Your Organization",
+          "earnedOn": "2024-07-27",
+          "duration": "1 hour 15 minutes",
+          "pdf": "https://joey-wilkes.replit.app/assets/linkedin-learning/securing-the-use-of-generative-ai-in-your-organization.pdf"
+        },
+        {
+          "title": "Agile Foundations",
+          "earnedOn": "2024-01-31",
+          "duration": "1 hour 35 minutes",
+          "pdf": "https://joey-wilkes.replit.app/assets/linkedin-learning/agile-foundations.pdf"
+        },
+        {
+          "title": "Introduction to ESG: Environmental, Social, and Governance",
+          "earnedOn": "2023-12-01",
+          "duration": "44 minutes",
+          "pdf": "https://joey-wilkes.replit.app/assets/linkedin-learning/introduction-to-esg-environmental-social-and-governance.pdf"
+        },
+        {
+          "title": "Understanding and Prioritizing Data Privacy",
+          "earnedOn": "2023-10-16",
+          "duration": "1 hour 14 minutes",
+          "pdf": "https://joey-wilkes.replit.app/assets/linkedin-learning/understanding-and-prioritizing-data-privacy.pdf"
+        },
+        {
+          "title": "Unconscious Bias",
+          "earnedOn": "2023-10-12",
+          "duration": "28 minutes",
+          "pdf": "https://joey-wilkes.replit.app/assets/linkedin-learning/unconscious-bias.pdf"
+        },
+        {
+          "title": "Generative AI: Working with Large Language Models",
+          "earnedOn": "2023-09-28",
+          "duration": "1 hour 8 minutes",
+          "pdf": "https://joey-wilkes.replit.app/assets/linkedin-learning/generative-ai-working-with-large-language-models.pdf"
+        },
+        {
+          "title": "Excel: Macros and VBA for Beginners",
+          "earnedOn": "2023-08-07",
+          "duration": "37 minutes",
+          "pdf": "https://joey-wilkes.replit.app/assets/linkedin-learning/excel-macros-and-vba-for-beginners.pdf"
+        },
+        {
+          "title": "GPT-4: The New GPT Release and What You Need to Know",
+          "earnedOn": "2023-06-12",
+          "duration": null,
+          "pdf": "https://joey-wilkes.replit.app/assets/linkedin-learning/gpt-4-the-new-gpt-release-and-what-you-need-to-know.pdf"
+        },
+        {
+          "title": "What Is Generative AI?",
+          "earnedOn": "2023-05-09",
+          "duration": "42 min",
+          "pdf": "https://joey-wilkes.replit.app/assets/linkedin-learning/what-is-generative-ai.pdf"
+        },
+        {
+          "title": "Reinforcement Learning Foundations",
+          "earnedOn": "2023-04-12",
+          "duration": "45 min",
+          "pdf": "https://joey-wilkes.replit.app/assets/linkedin-learning/reinforcement-learning-foundations.pdf"
+        },
+        {
+          "title": "Microsoft Azure: Controlling Cost",
+          "earnedOn": "2023-04-04",
+          "duration": "1 hour 22 min",
+          "pdf": "https://joey-wilkes.replit.app/assets/linkedin-learning/microsoft-azure-controlling-cost.pdf"
+        },
+        {
+          "title": "Google Cloud: Controlling Cost",
+          "earnedOn": "2023-03-31",
+          "duration": "1 hour 21 min",
+          "pdf": "https://joey-wilkes.replit.app/assets/linkedin-learning/google-cloud-controlling-cost.pdf"
+        },
+        {
+          "title": "AWS: Controlling Cost",
+          "earnedOn": "2023-03-13",
+          "duration": "2 hours 35 min",
+          "pdf": "https://joey-wilkes.replit.app/assets/linkedin-learning/aws-controlling-cost.pdf"
+        },
+        {
+          "title": "Data Engineering Foundations",
+          "earnedOn": "2022-03-20",
+          "duration": "1 hour 3 min",
+          "pdf": "https://joey-wilkes.replit.app/assets/linkedin-learning/data-engineering-foundations.pdf"
+        },
+        {
+          "title": "Machine Learning and AI Foundations: Classification Modeling",
+          "earnedOn": "2022-03-08",
+          "duration": "2 hours 0 min",
+          "pdf": "https://joey-wilkes.replit.app/assets/linkedin-learning/machine-learning-and-ai-foundations-classification-modeling.pdf"
+        }
+      ]
+    }
+  },
   "recommendations": {
     "count": 5,
     "quoteOnly": true,

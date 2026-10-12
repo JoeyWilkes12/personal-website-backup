@@ -1,6 +1,6 @@
 # Joey Wilkes
 
-Data, AI, and engineering portfolio. Four websites, seven academic reports, certifications, résumé, and five recommendations.
+Data, AI, and engineering portfolio. Four websites, seven academic reports, 11 completed certifications and courses, 17 Google Skills badges, 19 LinkedIn Learning certificates, résumé, and five recommendations.
 
 - [Home](https://joey-wilkes.replit.app/)
 - [Portfolio](https://joey-wilkes.replit.app/portfolio/)
@@ -14,6 +14,41 @@ Data, AI, and engineering portfolio. Four websites, seven academic reports, cert
 - [Non-Trivial Evasion](https://joey-wilkes.replit.app/academic-experience/non-trivial-evasion/)
 - [Non-Trivial Pursuit](https://joey-wilkes.replit.app/academic-experience/non-trivial-pursuit/)
 - [Childhood Computational Thinking](https://joey-wilkes.replit.app/academic-experience/literature-review/)
+
+## Portfolio
+
+- [How well can AI models play Queens?](https://joeywilkes12.github.io/queens-model-assessment/#/executive-summary): AI Evals. Tags: Jev, OpenRouter.
+- [FinOps FOCUS Explorer](https://joeywilkes12.github.io/finops-focus-router/): Cloud Cost Management. Tags: Forecasting, time-series, Prophet, SQL, IT Financial Management, Cost Anomaly detection.
+- [Agent Skills Resource Library](https://joeywilkes12.github.io/agent-skills-resource-library/): AI agents. Tags: MCP, Skills for AI agents, skill.md.
+- [Whiteley Reunion 2026](https://joeywilkes12.github.io/4amj-landing-page-01/): Family history. Tags: Consulting, Web development, Design, Codex, GitHub.
+
+## Completed certifications and courses
+
+- [Professional Machine Learning Engineer](https://joey-wilkes.replit.app/professional-experience/certifications/google-ml/), Google Cloud, Professional certification, completed 2024-12-31. Verification: https://www.credly.com/badges/dd6728ed-f889-4051-a53e-6bad93a51584/public_url
+- [AWS Certified AI Practitioner](https://joey-wilkes.replit.app/professional-experience/certifications/aws-ai/), Amazon Web Services, Foundational certification, completed 2026-01-30. Verification: https://www.credly.com/badges/2f2ec1ba-f2bd-40f1-b322-ec79e414ae00/public_url
+- [FinOps Certified Engineer](https://joey-wilkes.replit.app/professional-experience/certifications/finops-engineer/), FinOps Foundation, Certification, completed 2024-06-13. Verification: https://verify.skilljar.com/c/ckaxerie5ww8
+- [FinOps Certified FOCUS Analyst](https://joey-wilkes.replit.app/professional-experience/certifications/focus-analyst/), FinOps Foundation, Certification, completed 2025-02-05. Verification: https://www.credly.com/badges/9ae9171a-a842-4896-bb27-c874d06f53fc/public_url
+- [Azure Fundamentals](https://joey-wilkes.replit.app/professional-experience/certifications/azure-fundamentals/), Microsoft, Foundational certification, completed 2023-11-29. Verification: https://learn.microsoft.com/api/credentials/share/en-us/JoeyWilkes-1001/AD3D2D6ABEDDDC66?sharingId=3F32F982CE31032D
+- [Cloud GreenOps Philosopher](https://joey-wilkes.replit.app/professional-experience/certifications/greenops/), Greenpixie, Certification, completed 2026-05-28. Verification: https://www.credly.com/badges/f3b7ed7e-91b1-4d14-b83b-4163beddfebc/public_url
+- [Introduction to agent skills](https://joey-wilkes.replit.app/professional-experience/certifications/anthropic-skills/), Anthropic Education, Course completion, completed 2026-07-08. Verification: https://verify.skilljar.com/c/i4mdmrt77b6o
+- [Introduction to FOCUS](https://joey-wilkes.replit.app/professional-experience/certifications/focus-intro/), FinOps Foundation, Course completion, completed 2024-08-19. Verification: https://verify.skilljar.com/c/888zd885g2hd
+- [FinOps Certified Practitioner](https://joey-wilkes.replit.app/professional-experience/certifications/finops-practitioner/), FinOps Foundation, Certification, completed 2022-11-05. Verification: https://www.credly.com/badges/b2709299-45c8-4883-9665-503758019a86/public_url
+- [FinOps for Containers](https://joey-wilkes.replit.app/professional-experience/certifications/finops-containers/), FinOps Foundation, Training, completed 2023-10-18. Verification: https://www.credly.com/badges/2f5bba5f-1d07-4b70-91b7-13f988059f1d/public_url
+- [AI Value: Introduction](https://joey-wilkes.replit.app/professional-experience/certifications/ai-value-introduction/), FinOps Foundation, Course completion. Source: https://learn.finops.org/path/certified-finops-for-ai
+
+## In progress and up next
+
+- [AI Value (FinOps for AI)](https://joey-wilkes.replit.app/professional-experience/certifications/ai-value/), FinOps Foundation, Certification pathway: in-progress.
+- [AI Value: Level 1](https://joey-wilkes.replit.app/professional-experience/certifications/ai-value-l1/), FinOps Foundation, Training course: in-progress.
+- [AI Value: Level 2](https://joey-wilkes.replit.app/professional-experience/certifications/ai-value-l2/), FinOps Foundation, Training course: to-do.
+- [AI Value: Level 3](https://joey-wilkes.replit.app/professional-experience/certifications/ai-value-l3/), FinOps Foundation, Training course: to-do.
+- [AI Value: Certification course](https://joey-wilkes.replit.app/professional-experience/certifications/ai-value-final/), FinOps Foundation, Certification course & exam: to-do.
+- [GreenOps for AI](https://joey-wilkes.replit.app/professional-experience/certifications/greenops-ai/), Greenpixie, Training course: in-progress.
+
+## Course badges and certificates
+
+- [17 Google Skills badges](https://joey-wilkes.replit.app/professional-experience/#google-skills-badges), public profile: https://www.skills.google/public_profiles/96cc2ec8-2aa7-4b78-ab59-7bf58f012703
+- [19 LinkedIn Learning certificates](https://joey-wilkes.replit.app/professional-experience/#linkedin-learning), each with its original PDF
 
 Machine-readable profile: https://joey-wilkes.replit.app/profile.json
 Source résumé record ends in September 2026.
