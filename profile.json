@@ -2,7 +2,7 @@
   "name": "Joseph Wilkes",
   "displayName": "Joey Wilkes",
   "site": "https://joey-wilkes.replit.app",
-  "version": "1.3.0",
+  "version": "1.0.1",
   "focus": [
     "Data",
     "AI",
@@ -17,12 +17,6 @@
       "tags": [
         "Jev",
         "OpenRouter"
-      ],
-      "relatedLinks": [
-        {
-          "label": "Open Queens Solver",
-          "url": "https://joeywilkes12.github.io/queens-solver-router/"
-        }
       ]
     },
     {
@@ -64,47 +58,6 @@
       ]
     }
   ],
-  "queensSolver": {
-    "title": "Queens Solver",
-    "url": "https://joeywilkes12.github.io/queens-solver-router/",
-    "appUrl": "https://queens-solver.replit.app/",
-    "evaluationUrl": "https://joeywilkes12.github.io/queens-model-assessment/#/executive-summary",
-    "description": "Turn a Queens screenshot into a solved board with computer vision and constraint solving.",
-    "technology": [
-      "Python",
-      "OpenCV",
-      "Z3",
-      "Streamlit"
-    ],
-    "example": {
-      "title": "A hard Queens puzzle, solved in 20 seconds",
-      "puzzleDate": "2026-10-04",
-      "difficulty": "Hard",
-      "assistedSolveSeconds": 20,
-      "playerAverageSeconds": 257,
-      "playerAverageAsOf": "2026-10-05T03:20:00Z",
-      "playerAverageAsOfLabel": "5 October 2026, 03:20 UTC",
-      "input": {
-        "filename": "queens-input.jpg",
-        "width": 622,
-        "height": 1280,
-        "alt": "Unsolved nine-by-nine hard Queens puzzle with colored regions.",
-        "url": "https://joey-wilkes.replit.app/assets/portfolio/queens-solver/queens-input.jpg"
-      },
-      "output": {
-        "filename": "queens-solution.png",
-        "width": 1065,
-        "height": 1065,
-        "alt": "Solved nine-by-nine Queens board with one queen in each row, column, and color region.",
-        "url": "https://joey-wilkes.replit.app/assets/portfolio/queens-solver/queens-solution.png"
-      },
-      "source": {
-        "type": "user-supplied",
-        "submittedOn": "2026-10-05",
-        "description": "Screenshots and assisted completion time supplied by Joey Wilkes. Player average covers those who had played this puzzle by the stated cutoff. Date confirmed by Joey Wilkes."
-      }
-    }
-  },
   "academicReports": [
     {
       "title": "Learning Using Thinned Networks: A Crowdsourcing Phenomena in Reservoir Computing",
