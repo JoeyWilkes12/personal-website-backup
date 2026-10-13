@@ -17,10 +17,11 @@ Data, AI, and engineering portfolio. Four websites, seven academic reports, 11 c
 
 ## Portfolio
 
-- [How well can AI models play Queens?](https://joeywilkes12.github.io/queens-model-assessment/#/executive-summary): AI Evals. Tags: Jev, OpenRouter.
+- [How well can AI models play Queens?](https://joeywilkes12.github.io/queens-model-assessment/#/executive-summary): AI Evals. Tags: Jev, OpenRouter. Also: [Open Queens Solver](https://joeywilkes12.github.io/queens-solver-router/).
 - [FinOps FOCUS Explorer](https://joeywilkes12.github.io/finops-focus-router/): Cloud Cost Management. Tags: Forecasting, time-series, Prophet, SQL, IT Financial Management, Cost Anomaly detection.
 - [Agent Skills Resource Library](https://joeywilkes12.github.io/agent-skills-resource-library/): AI agents. Tags: MCP, Skills for AI agents, skill.md.
 - [Whiteley Reunion 2026](https://joeywilkes12.github.io/4amj-landing-page-01/): Family history. Tags: Consulting, Web development, Design, Codex, GitHub.
+- Queens Solver example: a hard puzzle from 2026-10-04 solved in 20 seconds against a 4 minute 17 second player average (as of 5 October 2026, 03:20 UTC), with Python, OpenCV, Z3, Streamlit.
 
 ## Completed certifications and courses
 
