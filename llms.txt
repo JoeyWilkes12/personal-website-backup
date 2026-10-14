@@ -1,6 +1,6 @@
 # Joey Wilkes
 
-Data, AI, and engineering portfolio. Four websites, seven academic reports, 11 completed certifications and courses, 17 Google Skills badges, 19 LinkedIn Learning certificates, résumé, and five recommendations.
+Data, cloud, and AI portfolio. Four websites, seven academic reports, 11 completed certifications and courses, 17 Google Skills badges, 19 LinkedIn Learning certificates, résumé, and 6 recommendations.
 
 - [Home](https://joey-wilkes.replit.app/)
 - [Portfolio](https://joey-wilkes.replit.app/portfolio/)
@@ -17,11 +17,15 @@ Data, AI, and engineering portfolio. Four websites, seven academic reports, 11 c
 
 ## Portfolio
 
-- [How well can AI models play Queens?](https://joeywilkes12.github.io/queens-model-assessment/#/executive-summary): AI Evals. Tags: Jev, OpenRouter. Also: [Open Queens Solver](https://joeywilkes12.github.io/queens-solver-router/).
+- [How well can AI models play Queens?](https://joeywilkes12.github.io/queens-model-assessment/#/executive-summary): AI Evals. Tags: Frontier Foundation Models, Decision Models, Jev, OpenRouter, LangSmith, SubQ Snap. Also: [Open Queens Solver](https://joeywilkes12.github.io/queens-solver-router/).
 - [FinOps FOCUS Explorer](https://joeywilkes12.github.io/finops-focus-router/): Cloud Cost Management. Tags: Forecasting, time-series, Prophet, SQL, IT Financial Management, Cost Anomaly detection.
 - [Agent Skills Resource Library](https://joeywilkes12.github.io/agent-skills-resource-library/): AI agents. Tags: MCP, Skills for AI agents, skill.md.
-- [Whiteley Reunion 2026](https://joeywilkes12.github.io/4amj-landing-page-01/): Family history. Tags: Consulting, Web development, Design, Codex, GitHub.
+- [Whiteley Reunion 2026](https://joeywilkes12.github.io/4amj-landing-page-01/): Family history. Tags: Web development, Design, Codex, GitHub.
 - Queens Solver example: a hard puzzle from 2026-10-04 solved in 20 seconds against a 4 minute 17 second player average (as of 5 October 2026, 03:20 UTC), with Python, OpenCV, Z3, Streamlit.
+
+## Research presentation
+
+- [Exploring the Ability of Reservoir Computers to Learn Chaotic Systems](https://joey-wilkes.replit.app/academic-experience/reservoir-thinning/#presentation): Joseph Wilkes, Brigham Young University. Video: https://youtu.be/3xfIXrZQfDg. Slides (54): https://joey-wilkes.replit.app/assets/presentations/reservoir-thinning/siam-5-final.pdf. Full transcript on the page. Lorenz attractor animation: https://joey-wilkes.replit.app/assets/presentations/reservoir-thinning/lorenz-animation-4.mp4; notebook: https://joey-wilkes.replit.app/assets/presentations/reservoir-thinning/lorenz-equations.ipynb.
 
 ## Completed certifications and courses
 

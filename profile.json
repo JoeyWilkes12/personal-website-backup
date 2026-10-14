@@ -2,11 +2,11 @@
   "name": "Joseph Wilkes",
   "displayName": "Joey Wilkes",
   "site": "https://joey-wilkes.replit.app",
-  "version": "1.3.0",
+  "version": "1.4.0",
   "focus": [
     "Data",
-    "AI",
-    "Engineering"
+    "Cloud",
+    "AI"
   ],
   "websites": [
     {
@@ -15,9 +15,19 @@
       "description": "Extensive computational & scientific assessment of various AI models ability to play logical puzzle Queens",
       "url": "https://joeywilkes12.github.io/queens-model-assessment/#/executive-summary",
       "tags": [
+        "Frontier Foundation Models",
+        "Decision Models",
         "Jev",
-        "OpenRouter"
+        "OpenRouter",
+        "LangSmith",
+        "SubQ Snap"
       ],
+      "tagLinks": {
+        "Jev": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
+        "OpenRouter": "https://openrouter.ai/",
+        "LangSmith": "https://www.langchain.com/langsmith-platform",
+        "SubQ Snap": "https://subq.ai/introducing-subq-snap"
+      },
       "relatedLinks": [
         {
           "label": "Open Queens Solver",
@@ -56,7 +66,6 @@
       "description": "A reunion hub for genealogy, schedules, food planning, and shared files.",
       "url": "https://joeywilkes12.github.io/4amj-landing-page-01/",
       "tags": [
-        "Consulting",
         "Web development",
         "Design",
         "Codex",
@@ -117,7 +126,18 @@
         "J. Wilkes"
       ],
       "documentDate": "2022-04-15",
-      "pageCount": 15
+      "pageCount": 15,
+      "presentation": {
+        "title": "Exploring the Ability of Reservoir Computers to Learn Chaotic Systems",
+        "presenter": "Joseph Wilkes",
+        "video": "https://youtu.be/3xfIXrZQfDg",
+        "uploadDate": "2021-07-23",
+        "slidesPdf": "https://joey-wilkes.replit.app/assets/presentations/reservoir-thinning/siam-5-final.pdf",
+        "slideCount": 54,
+        "lorenzAnimation": "https://joey-wilkes.replit.app/assets/presentations/reservoir-thinning/lorenz-animation-4.mp4",
+        "lorenzNotebook": "https://joey-wilkes.replit.app/assets/presentations/reservoir-thinning/lorenz-equations.ipynb",
+        "transcript": "https://joey-wilkes.replit.app/academic-experience/reservoir-thinning/#presentation-transcript"
+      }
     },
     {
       "title": "RISK Data Project Fall 2020",
@@ -597,7 +617,7 @@
     }
   },
   "recommendations": {
-    "count": 5,
+    "count": 6,
     "quoteOnly": true,
     "automaticRotation": false,
     "source": "shared-assets/testimonials/approved-quotes.json"
