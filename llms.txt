@@ -1,59 +1,245 @@
-# Joey Wilkes
+# Joseph (Joey) Wilkes
 
-Data, cloud, and AI portfolio. Four websites, seven academic reports, 11 completed certifications and courses, 17 Google Skills badges, 19 LinkedIn Learning certificates, résumé, and 6 recommendations.
+> Data, cloud, and AI portfolio. 3 portfolio websites, seven academic reports, 11 completed certifications and courses, 17 Google Skills badges, 19 LinkedIn Learning certificates, résumé, and 6 recommendations.
 
-- [Home](https://joey-wilkes.replit.app/)
-- [Portfolio](https://joey-wilkes.replit.app/portfolio/)
-- [Professional experience](https://joey-wilkes.replit.app/professional-experience/)
-- [Academic experience](https://joey-wilkes.replit.app/academic-experience/)
-- [Résumé](https://joey-wilkes.replit.app/resume/)
-- [Reservoir Thinning](https://joey-wilkes.replit.app/academic-experience/reservoir-thinning/)
-- [RISK Game Prediction](https://joey-wilkes.replit.app/academic-experience/risk-game-prediction/)
-- [General Conference NLP](https://joey-wilkes.replit.app/academic-experience/general-conference-nlp/)
-- [Predicting Movie Revenue](https://joey-wilkes.replit.app/academic-experience/prediction-movie-revenue/)
-- [Non-Trivial Evasion](https://joey-wilkes.replit.app/academic-experience/non-trivial-evasion/)
-- [Non-Trivial Pursuit](https://joey-wilkes.replit.app/academic-experience/non-trivial-pursuit/)
-- [Childhood Computational Thinking](https://joey-wilkes.replit.app/academic-experience/literature-review/)
+## Site index
+
+- [Home](https://joey-wilkes-home.vercel.app/)
+- [Portfolio](https://joey-wilkes-home.vercel.app/portfolio/)
+- [Professional experience](https://joey-wilkes-home.vercel.app/professional-experience/)
+- [Academic experience](https://joey-wilkes-home.vercel.app/academic-experience/)
+- [Résumé](https://joey-wilkes-home.vercel.app/resume/)
+- [Reservoir Thinning](https://joey-wilkes-home.vercel.app/academic-experience/reservoir-thinning/)
+- [RISK Game Prediction](https://joey-wilkes-home.vercel.app/academic-experience/risk-game-prediction/)
+- [General Conference NLP](https://joey-wilkes-home.vercel.app/academic-experience/general-conference-nlp/)
+- [Predicting Movie Revenue](https://joey-wilkes-home.vercel.app/academic-experience/prediction-movie-revenue/)
+- [Non-Trivial Evasion](https://joey-wilkes-home.vercel.app/academic-experience/non-trivial-evasion/)
+- [Non-Trivial Pursuit](https://joey-wilkes-home.vercel.app/academic-experience/non-trivial-pursuit/)
+- [Childhood Computational Thinking](https://joey-wilkes-home.vercel.app/academic-experience/literature-review/)
+
+## Résumé and professional experience
+
+Name: Joseph Wilkes; also known as Joey Wilkes.
+[Full résumé](https://joey-wilkes-home.vercel.app/resume/) | [Résumé PDF](https://joey-wilkes-home.vercel.app/assets/resume/joseph-wilkes-resume.pdf) | [LinkedIn](https://www.linkedin.com/in/joseph-b-wilkes) | [GitHub](https://github.com/JoeyWilkes12)
+
+### Data Scientist & Data Science Consultant, Product Office — Anglepoint
+
+Oct 2022 – Sept 2026 | Hybrid Remote from Utah, USA
+
+- Launched Cloud Cost Management (FinOps) Services line of business to generate more than $100,000 USD through both client-facing delivery (3x) & product development
+- Curated external product materials on FinOps & AI Cost Management services to support the 5th & 6th consecutive years as a Leader in the associated Gartner Magic Quadrant
+- Innovated continuously to support a multi-year automation initiative to increase revenue per headcount for a major line of business, using LLMs to process thousands of text documents and automate consultants’ manual data collection & document extraction
+
+### Data Engineer — Varian – A Siemens Healthineers Company
+
+June 2022 – Oct 2022 | 100% Remote from Utah, USA
+
+- Built a web-based Plotly Dash dashboard with 10+ data visualizations & 30+ interactive components to provide insights on an A/B test of clinicians’ use of AI models
+- Engineered medical contouring data from nested & semi-structured to tabular form using Python with minimal guidance, providing statistics for an A/B test of AI performance
+- Updated Airflow ETL DAGs involving 3+ sources & transferred 200+ GB of medical data from Azure to GCP BigQuery for AI & ML utilization
+- Saved 12+ hours of contouring setup by automating a manual process using Python
+
+### Analyst, SaaS Delivery — Anglepoint
+
+May 2021 – June 2022 | On-site in Utah, USA
+
+- Utilized Python, SQL, and Excel to identify millions of dollars in potential cost savings associated with management of Salesforce, Tableau, Adobe, & other SaaS vendors
+- Received the Selflessness Company Core Value Award (Q3 2021)
+- Built & led an internal Python resource group of 12+ individuals across several teams with a vision to enhance automation & analysis of client deliverables
+
+### Research Assistant — Mathematics Department, B.Y.U.
+
+Apr 2020 – May 2021 | Hybrid Remote from Utah, USA
+
+- Engineered a data pipeline for a High Performance Computing (HPC) environment using Python, Slurm, Bash, and Git yielding 10+ TB of data through 40+ years of computing
+- Automated processes for visualization & optimization of millions of predictive models
+- Communicated & collaborated on technical concepts while writing a research paper, presenting at two research conferences, and teaching about HPC & code functionality
+
+### Data Analytics Intern — Imagine Learning
+
+May 2019 – Aug 2019 | On-site in Utah, USA
+
+- Developed 12+ features for several predictive models using SQL & Python
+- Acquired proficiency with Amazon Web Services (Athena, S3, Glue, Redshift, Lambda, EC2, IAM) as well as Google Cloud Platform, mainly Google Maps
+- Engineered novel datasets for geospatial analysis & executive reporting
+
+## Education
+
+### BS, Applied & Computational Mathematics (ACME) — Brigham Young University
+
+April 2021 | Utah, USA. Concentration: Business Management. GPA: 3.50.
+Coursework: Machine Learning, Optimization, Algorithm Design, Linear Algebra, Differential Equations, C++, Technical Writing, Statistics, Marketing, Finance, Probability.
 
 ## Portfolio
 
-- [How well can AI models play Queens?](https://joeywilkes12.github.io/queens-model-assessment/#/executive-summary): AI Evals. Tags: Frontier Foundation Models, Decision Models, Jev, OpenRouter, LangSmith, SubQ Snap. Also: [Open Queens Solver](https://joeywilkes12.github.io/queens-solver-router/).
-- [FinOps FOCUS Explorer](https://joeywilkes12.github.io/finops-focus-router/): Cloud Cost Management. Tags: Forecasting, time-series, Prophet, SQL, IT Financial Management, Cost Anomaly detection.
-- [Agent Skills Resource Library](https://joeywilkes12.github.io/agent-skills-resource-library/): AI agents. Tags: MCP, Skills for AI agents, skill.md.
-- [Whiteley Reunion 2026](https://joeywilkes12.github.io/4amj-landing-page-01/): Family history. Tags: Web development, Design, Codex, GitHub.
+- [How well can AI models play Queens?](https://joeywilkes12.github.io/queens-model-assessment/#/executive-summary): AI Evals. Extensive computational & scientific assessment of various AI models ability to play logical puzzle Queens. Tags: Frontier Foundation Models, Decision Models, Jev, OpenRouter, LangSmith, SubQ Snap. Also: [Open Queens Solver](https://joeywilkes12.github.io/queens-solver-router/).
+- [FinOps FOCUS Explorer](https://joeywilkes12.github.io/finops-focus-router/): Cloud Cost Management. A cost dashboard, data explorer, and live use case queries over the FinOps FOCUS 1.0 sample billing data from Amazon Web Services (AWS), Microsoft Azure, Oracle Cloud Infrastructure (OCI), and Google Cloud Platform (GCP). Tags: Forecasting, time-series, Prophet, SQL, IT Financial Management, Cost Anomaly detection.
+- [Agent Skills Resource Library](https://joeywilkes12.github.io/agent-skills-resource-library/): AI agents. Resources and guides for building, troubleshooting, and evaluating AI agent skills. Tags: MCP, Skills for AI agents, skill.md.
+- [Queens Solver](https://joeywilkes12.github.io/queens-solver-router/): Turn a Queens screenshot into a solved board with computer vision and constraint solving. Technology: Python, OpenCV, Z3, Streamlit.
 - Queens Solver example: a hard puzzle from 2026-10-04 solved in 20 seconds against a 4 minute 17 second player average (as of 5 October 2026, 03:20 UTC), with Python, OpenCV, Z3, Streamlit.
+
+## Academic projects and research
+
+### Reservoir Thinning
+
+- [Learning Using Thinned Networks: A Crowdsourcing Phenomena in Reservoir Computing](https://joey-wilkes-home.vercel.app/academic-experience/reservoir-thinning/): Research on sparse reservoir networks that reconstruct the Lorenz attractor, connecting network thinning, spectral radius, and response diversity.
+- Authors: J. Jamieson, D. J. Passey, B. Webb, J. Wilkes. Document date: April 15, 2022.
+- Topics: Reservoir computing, Network science, Chaotic systems.
+- [Original report PDF (15 pages)](https://joey-wilkes-home.vercel.app/assets/reports/reservoir-thinning.pdf)
+
+### RISK Game Prediction
+
+- [RISK Data Project Fall 2020](https://joey-wilkes-home.vercel.app/academic-experience/risk-game-prediction/): Game simulation, feature engineering, and machine learning to predict the winner of RISK from the current board state.
+- Authors: Jacob Murri, Joseph Wilkes, Caleb Wilson, Lukas Erekson. Document date: December 10, 2020.
+- Topics: Machine learning, Simulation, Data engineering.
+- [Original report PDF (17 pages)](https://joey-wilkes-home.vercel.app/assets/reports/risk-game-prediction.pdf)
+
+### General Conference NLP
+
+- [A Natural Language Processing Analysis of General Conference Discourses Employing Time-Series and Classification Models](https://joey-wilkes-home.vercel.app/academic-experience/general-conference-nlp/): Topic modeling, speaker classification, and related-talk retrieval using NLP and time-series methods on General Conference discourses.
+- Authors: Clark Brown, Mikelle Rogers, Daniel Swingle, Joseph Wilkes, Caleb Wilson. Document date: April 15, 2021.
+- Topics: Natural language processing, Time series, Recommendation systems.
+- [Original report PDF (17 pages)](https://joey-wilkes-home.vercel.app/assets/reports/general-conference-nlp.pdf)
+
+### Predicting Movie Revenue
+
+- [Let's All Go To The Movies](https://joey-wilkes-home.vercel.app/academic-experience/prediction-movie-revenue/): A comparison of random forests, nearest neighbors, and neural networks for predicting domestic and worldwide movie revenue.
+- Authors: Joseph Wilkes, Jacob Rohde, Pauline Caussé. Document date: Fall 2019.
+- Topics: Machine learning, Regression, Feature engineering.
+- [Original report PDF (6 pages)](https://joey-wilkes-home.vercel.app/assets/reports/prediction-movie-revenue.pdf)
+
+### Non-Trivial Evasion
+
+- [Non-Trivial Evasion](https://joey-wilkes-home.vercel.app/academic-experience/non-trivial-evasion/): Optimal control models for fox-and-rabbit evasion using linear-quadratic regulation and Pontryagin's maximum principle.
+- Authors: Taylor Gledhill, Joseph Wilkes, Raelynn Wonnacott, Nathan Nelson. Document date: April 2021.
+- Topics: Optimal control, Dynamical systems, Mathematical modeling.
+- [Original report PDF (10 pages)](https://joey-wilkes-home.vercel.app/assets/reports/non-trivial-evasion.pdf)
+
+### Non-Trivial Pursuit
+
+- [Non-Trivial Pursuit](https://joey-wilkes-home.vercel.app/academic-experience/non-trivial-pursuit/): Mathematical models of pursuit and evasion, testing how destination, terrain, prediction, and escape strategies shape a chase.
+- Authors: Taylor Gledhill, Joseph Wilkes, Raelynn Wonnacott, Nathan Nelson. Document date: December 2020.
+- Topics: Dynamical systems, Numerical modeling, Pursuit and evasion.
+- [Original report PDF (10 pages)](https://joey-wilkes-home.vercel.app/assets/reports/non-trivial-pursuit.pdf)
+
+### Childhood Computational Thinking
+
+- [Evaluation of Childhood Computational Thinking with ScratchJR and Robot Toys: A Literature Review](https://joey-wilkes-home.vercel.app/academic-experience/literature-review/): A literature review comparing ScratchJr and educational robots as tools for developing computational thinking in young children.
+- Authors: Joseph Wilkes.
+- Topics: Computational thinking, Education, Literature review.
+- [Original report PDF (16 pages)](https://joey-wilkes-home.vercel.app/assets/reports/literature-review.pdf)
+
+### Applied Mathematics Projects
+
+- [Applied Mathematics Projects](https://github.com/JoeyWilkes12/Projects1): Python implementations of graph algorithms, numerical methods, Markov chains, nearest neighbors, Monte Carlo integration, and unit testing.
+- Topics: Python, Graph algorithms, Numerical methods, Markov chains, Unit testing.
+- Implementations: Breadth-first search, Binary trees, Conditioning and stability, Differentiation, Drazin inverse, K-nearest neighbors, Markov chains, Monte Carlo integration, Newton's method, PageRank, Unit testing, Wordle solver.
 
 ## Research presentation
 
-- [Exploring the Ability of Reservoir Computers to Learn Chaotic Systems](https://joey-wilkes.replit.app/academic-experience/reservoir-thinning/#presentation): Joseph Wilkes, Brigham Young University. Video: https://youtu.be/3xfIXrZQfDg. Slides (54): https://joey-wilkes.replit.app/assets/presentations/reservoir-thinning/siam-5-final.pdf. Full transcript on the page. Lorenz attractor animation: https://joey-wilkes.replit.app/assets/presentations/reservoir-thinning/lorenz-animation-4.mp4; notebook: https://joey-wilkes.replit.app/assets/presentations/reservoir-thinning/lorenz-equations.ipynb.
+- [Exploring the Ability of Reservoir Computers to Learn Chaotic Systems](https://joey-wilkes-home.vercel.app/academic-experience/reservoir-thinning/#presentation): Joseph Wilkes, Brigham Young University. Video: https://youtu.be/3xfIXrZQfDg. Slides (54): https://joey-wilkes-home.vercel.app/assets/presentations/reservoir-thinning/siam-5-final.pdf. Full transcript on the page. Lorenz attractor animation: https://joey-wilkes-home.vercel.app/assets/presentations/reservoir-thinning/lorenz-animation-4.mp4; notebook: https://joey-wilkes-home.vercel.app/assets/presentations/reservoir-thinning/lorenz-equations.ipynb.
 
 ## Completed certifications and courses
 
-- [Professional Machine Learning Engineer](https://joey-wilkes.replit.app/professional-experience/certifications/google-ml/), Google Cloud, Professional certification, completed 2024-12-31. Verification: https://www.credly.com/badges/dd6728ed-f889-4051-a53e-6bad93a51584/public_url
-- [AWS Certified AI Practitioner](https://joey-wilkes.replit.app/professional-experience/certifications/aws-ai/), Amazon Web Services, Foundational certification, completed 2026-01-30. Verification: https://www.credly.com/badges/2f2ec1ba-f2bd-40f1-b322-ec79e414ae00/public_url
-- [FinOps Certified Engineer](https://joey-wilkes.replit.app/professional-experience/certifications/finops-engineer/), FinOps Foundation, Certification, completed 2024-06-13. Verification: https://verify.skilljar.com/c/ckaxerie5ww8
-- [FinOps Certified FOCUS Analyst](https://joey-wilkes.replit.app/professional-experience/certifications/focus-analyst/), FinOps Foundation, Certification, completed 2025-02-05. Verification: https://www.credly.com/badges/9ae9171a-a842-4896-bb27-c874d06f53fc/public_url
-- [Azure Fundamentals](https://joey-wilkes.replit.app/professional-experience/certifications/azure-fundamentals/), Microsoft, Foundational certification, completed 2023-11-29. Verification: https://learn.microsoft.com/api/credentials/share/en-us/JoeyWilkes-1001/AD3D2D6ABEDDDC66?sharingId=3F32F982CE31032D
-- [Cloud GreenOps Philosopher](https://joey-wilkes.replit.app/professional-experience/certifications/greenops/), Greenpixie, Certification, completed 2026-05-28. Verification: https://www.credly.com/badges/f3b7ed7e-91b1-4d14-b83b-4163beddfebc/public_url
-- [Introduction to agent skills](https://joey-wilkes.replit.app/professional-experience/certifications/anthropic-skills/), Anthropic Education, Course completion, completed 2026-07-08. Verification: https://verify.skilljar.com/c/i4mdmrt77b6o
-- [Introduction to FOCUS](https://joey-wilkes.replit.app/professional-experience/certifications/focus-intro/), FinOps Foundation, Course completion, completed 2024-08-19. Verification: https://verify.skilljar.com/c/888zd885g2hd
-- [FinOps Certified Practitioner](https://joey-wilkes.replit.app/professional-experience/certifications/finops-practitioner/), FinOps Foundation, Certification, completed 2022-11-05. Verification: https://www.credly.com/badges/b2709299-45c8-4883-9665-503758019a86/public_url
-- [FinOps for Containers](https://joey-wilkes.replit.app/professional-experience/certifications/finops-containers/), FinOps Foundation, Training, completed 2023-10-18. Verification: https://www.credly.com/badges/2f5bba5f-1d07-4b70-91b7-13f988059f1d/public_url
-- [AI Value: Introduction](https://joey-wilkes.replit.app/professional-experience/certifications/ai-value-introduction/), FinOps Foundation, Course completion. Source: https://learn.finops.org/path/certified-finops-for-ai
+- [Professional Machine Learning Engineer](https://joey-wilkes-home.vercel.app/professional-experience/certifications/google-ml/), Google Cloud, Professional certification, completed 2024-12-31. Expiry date: 2026-12-31. Topics: Machine learning, Google Cloud. Verification: https://www.credly.com/badges/dd6728ed-f889-4051-a53e-6bad93a51584/public_url
+- [AWS Certified AI Practitioner](https://joey-wilkes-home.vercel.app/professional-experience/certifications/aws-ai/), Amazon Web Services, Foundational certification, completed 2026-01-30. Topics: Artificial intelligence, AWS. Verification: https://www.credly.com/badges/2f2ec1ba-f2bd-40f1-b322-ec79e414ae00/public_url
+- [FinOps Certified Engineer](https://joey-wilkes-home.vercel.app/professional-experience/certifications/finops-engineer/), FinOps Foundation, Certification, completed 2024-06-13. Topics: Cloud engineering, FinOps. Verification: https://verify.skilljar.com/c/ckaxerie5ww8
+- [FinOps Certified FOCUS Analyst](https://joey-wilkes-home.vercel.app/professional-experience/certifications/focus-analyst/), FinOps Foundation, Certification, completed 2025-02-05. Topics: Cost & usage data, FOCUS. Verification: https://www.credly.com/badges/9ae9171a-a842-4896-bb27-c874d06f53fc/public_url
+- [Azure Fundamentals](https://joey-wilkes-home.vercel.app/professional-experience/certifications/azure-fundamentals/), Microsoft, Foundational certification, completed 2023-11-29. Topics: Cloud computing, Azure. Verification: https://learn.microsoft.com/api/credentials/share/en-us/JoeyWilkes-1001/AD3D2D6ABEDDDC66?sharingId=3F32F982CE31032D
+- [Cloud GreenOps Philosopher](https://joey-wilkes-home.vercel.app/professional-experience/certifications/greenops/), Greenpixie, Certification, completed 2026-05-28. Topics: Cloud sustainability, GreenOps. Verification: https://www.credly.com/badges/f3b7ed7e-91b1-4d14-b83b-4163beddfebc/public_url
+- [Introduction to agent skills](https://joey-wilkes-home.vercel.app/professional-experience/certifications/anthropic-skills/), Anthropic Education, Course completion, completed 2026-07-08. Topics: AI agents, Agent skills. Verification: https://verify.skilljar.com/c/i4mdmrt77b6o
+- [Introduction to FOCUS](https://joey-wilkes-home.vercel.app/professional-experience/certifications/focus-intro/), FinOps Foundation, Course completion, completed 2024-08-19. Topics: Billing data, FOCUS. Verification: https://verify.skilljar.com/c/888zd885g2hd
+- [FinOps Certified Practitioner](https://joey-wilkes-home.vercel.app/professional-experience/certifications/finops-practitioner/), FinOps Foundation, Certification, completed 2022-11-05. Issuer status: expired. Topics: Cloud financial management, FinOps. Verification: https://www.credly.com/badges/b2709299-45c8-4883-9665-503758019a86/public_url
+- [FinOps for Containers](https://joey-wilkes-home.vercel.app/professional-experience/certifications/finops-containers/), FinOps Foundation, Training, completed 2023-10-18. Issuer status: expired. Topics: Containers, Cloud cost. Verification: https://www.credly.com/badges/2f5bba5f-1d07-4b70-91b7-13f988059f1d/public_url
+- [AI Value: Introduction](https://joey-wilkes-home.vercel.app/professional-experience/certifications/ai-value-introduction/), FinOps Foundation, Course completion. Topics: FinOps for AI, AI cost management. Source: https://learn.finops.org/path/certified-finops-for-ai
 
 ## In progress and up next
 
-- [AI Value (FinOps for AI)](https://joey-wilkes.replit.app/professional-experience/certifications/ai-value/), FinOps Foundation, Certification pathway: in-progress.
-- [AI Value: Level 1](https://joey-wilkes.replit.app/professional-experience/certifications/ai-value-l1/), FinOps Foundation, Training course: in-progress.
-- [AI Value: Level 2](https://joey-wilkes.replit.app/professional-experience/certifications/ai-value-l2/), FinOps Foundation, Training course: to-do.
-- [AI Value: Level 3](https://joey-wilkes.replit.app/professional-experience/certifications/ai-value-l3/), FinOps Foundation, Training course: to-do.
-- [AI Value: Certification course](https://joey-wilkes.replit.app/professional-experience/certifications/ai-value-final/), FinOps Foundation, Certification course & exam: to-do.
-- [GreenOps for AI](https://joey-wilkes.replit.app/professional-experience/certifications/greenops-ai/), Greenpixie, Training course: in-progress.
+- [AI Value (FinOps for AI)](https://joey-wilkes-home.vercel.app/professional-experience/certifications/ai-value/), FinOps Foundation, Certification pathway: in-progress. Topics: FinOps for AI, AI cost management.
+- [AI Value: Level 1](https://joey-wilkes-home.vercel.app/professional-experience/certifications/ai-value-l1/), FinOps Foundation, Training course: in-progress. Topics: FinOps for AI, AI cost management.
+- [AI Value: Level 2](https://joey-wilkes-home.vercel.app/professional-experience/certifications/ai-value-l2/), FinOps Foundation, Training course: to-do. Topics: FinOps for AI, AI cost management.
+- [AI Value: Level 3](https://joey-wilkes-home.vercel.app/professional-experience/certifications/ai-value-l3/), FinOps Foundation, Training course: to-do. Topics: FinOps for AI, AI cost management.
+- [AI Value: Certification course](https://joey-wilkes-home.vercel.app/professional-experience/certifications/ai-value-final/), FinOps Foundation, Certification course & exam: to-do. Topics: FinOps for AI, AI cost management.
+- [GreenOps for AI](https://joey-wilkes-home.vercel.app/professional-experience/certifications/greenops-ai/), Greenpixie, Training course: in-progress. Topics: AI sustainability, GreenOps.
 
 ## Course badges and certificates
 
-- [17 Google Skills badges](https://joey-wilkes.replit.app/professional-experience/#google-skills-badges), public profile: https://www.skills.google/public_profiles/96cc2ec8-2aa7-4b78-ab59-7bf58f012703
-- [19 LinkedIn Learning certificates](https://joey-wilkes.replit.app/professional-experience/#linkedin-learning), each with its original PDF
+- [17 Google Skills badges](https://joey-wilkes-home.vercel.app/professional-experience/#google-skills-badges), public profile: https://www.skills.google/public_profiles/96cc2ec8-2aa7-4b78-ab59-7bf58f012703
+- [Create Generative AI Apps on Google Cloud](https://www.skills.google/public_profiles/96cc2ec8-2aa7-4b78-ab59-7bf58f012703/badges/13507882?locale=en): Google Skills badge, earned 2025-01-06.
+- [ML Pipelines on Google Cloud](https://www.skills.google/public_profiles/96cc2ec8-2aa7-4b78-ab59-7bf58f012703/badges/13459426?locale=en): Google Skills badge, earned 2024-12-30.
+- [Responsible AI for Developers: Privacy & Safety](https://www.skills.google/public_profiles/96cc2ec8-2aa7-4b78-ab59-7bf58f012703/badges/13437596?locale=en): Google Skills badge, earned 2024-12-28.
+- [Responsible AI for Developers: Fairness & Bias](https://www.skills.google/public_profiles/96cc2ec8-2aa7-4b78-ab59-7bf58f012703/badges/13437117?locale=en): Google Skills badge, earned 2024-12-28.
+- [Build a Certification Study Guide: PMLE](https://www.skills.google/public_profiles/96cc2ec8-2aa7-4b78-ab59-7bf58f012703/badges/13350496?locale=en): Google Skills badge, earned 2024-12-20.
+- [Responsible AI for Developers: Interpretability & Transparency](https://www.skills.google/public_profiles/96cc2ec8-2aa7-4b78-ab59-7bf58f012703/badges/13310262?locale=en): Google Skills badge, earned 2024-12-18.
+- [Machine Learning Operations (MLOps) with Agent Platform: Model Evaluation](https://www.skills.google/public_profiles/96cc2ec8-2aa7-4b78-ab59-7bf58f012703/badges/12200410?locale=en): Google Skills badge, earned 2024-10-18.
+- [Machine Learning Operations (MLOps) for Generative AI](https://www.skills.google/public_profiles/96cc2ec8-2aa7-4b78-ab59-7bf58f012703/badges/12004413?locale=en): Google Skills badge, earned 2024-10-11.
+- [Attention Mechanism](https://www.skills.google/public_profiles/96cc2ec8-2aa7-4b78-ab59-7bf58f012703/badges/10957550?locale=en): Google Skills badge, earned 2024-08-29.
+- [Enterprise Search on Generative AI App Builder](https://www.skills.google/public_profiles/96cc2ec8-2aa7-4b78-ab59-7bf58f012703/badges/10599248?locale=en): Google Skills badge, earned 2024-08-15.
+- [Introduction to Vertex Forecasting and Time Series in Practice](https://www.skills.google/public_profiles/96cc2ec8-2aa7-4b78-ab59-7bf58f012703/badges/10116015?locale=en): Google Skills badge, earned 2024-07-28.
+- [Vector Search and Embeddings](https://www.skills.google/public_profiles/96cc2ec8-2aa7-4b78-ab59-7bf58f012703/badges/8966122?locale=en): Google Skills badge, earned 2024-05-10.
+- [Machine Learning Operations (MLOps): Getting Started](https://www.skills.google/public_profiles/96cc2ec8-2aa7-4b78-ab59-7bf58f012703/badges/8860380?locale=en): Google Skills badge, earned 2024-05-03.
+- [Machine Learning in the Enterprise](https://www.skills.google/public_profiles/96cc2ec8-2aa7-4b78-ab59-7bf58f012703/badges/8802703?locale=en): Google Skills badge, earned 2024-04-30.
+- [Launching into Machine Learning](https://www.skills.google/public_profiles/96cc2ec8-2aa7-4b78-ab59-7bf58f012703/badges/7098470?locale=en): Google Skills badge, earned 2024-01-19.
+- [Introduction to AI and Machine Learning on Google Cloud](https://www.skills.google/public_profiles/96cc2ec8-2aa7-4b78-ab59-7bf58f012703/badges/6641725?locale=en): Google Skills badge, earned 2023-12-14.
+- [Introduction to Generative AI](https://www.skills.google/public_profiles/96cc2ec8-2aa7-4b78-ab59-7bf58f012703/badges/6574865?locale=en): Google Skills badge, earned 2023-12-09.
 
-Machine-readable profile: https://joey-wilkes.replit.app/profile.json
-Source résumé record ends in September 2026.
+- [19 LinkedIn Learning certificates](https://joey-wilkes-home.vercel.app/professional-experience/#linkedin-learning), each with its original PDF
+- [Decision Intelligence](https://joey-wilkes-home.vercel.app/assets/linkedin-learning/decision-intelligence.pdf): LinkedIn Learning course completion certificate, completed 2023-09-29, 1 hour 25 minutes.
+- [LLMs for Enterprise: Technical Protocols, Considerations, and Data Privacy](https://joey-wilkes-home.vercel.app/assets/linkedin-learning/llms-for-enterprise-technical-protocols-considerations-and-data-privacy.pdf): LinkedIn Learning course completion certificate, completed 2024-08-20, 15 minutes.
+- [Managing AI Security Risks with ISO 27001](https://joey-wilkes-home.vercel.app/assets/linkedin-learning/managing-ai-security-risks-with-iso-27001.pdf): LinkedIn Learning course completion certificate, completed 2024-08-16, 1 hour 29 minutes.
+- [Use Copilot AI for Secure Work Data in Your Organization](https://joey-wilkes-home.vercel.app/assets/linkedin-learning/use-copilot-ai-for-secure-work-data-in-your-organization.pdf): LinkedIn Learning course completion certificate, completed 2024-08-15, 18 minutes.
+- [Securing the Use of Generative AI in Your Organization](https://joey-wilkes-home.vercel.app/assets/linkedin-learning/securing-the-use-of-generative-ai-in-your-organization.pdf): LinkedIn Learning course completion certificate, completed 2024-07-27, 1 hour 15 minutes.
+- [Agile Foundations](https://joey-wilkes-home.vercel.app/assets/linkedin-learning/agile-foundations.pdf): LinkedIn Learning course completion certificate, completed 2024-01-31, 1 hour 35 minutes.
+- [Introduction to ESG: Environmental, Social, and Governance](https://joey-wilkes-home.vercel.app/assets/linkedin-learning/introduction-to-esg-environmental-social-and-governance.pdf): LinkedIn Learning course completion certificate, completed 2023-12-01, 44 minutes.
+- [Understanding and Prioritizing Data Privacy](https://joey-wilkes-home.vercel.app/assets/linkedin-learning/understanding-and-prioritizing-data-privacy.pdf): LinkedIn Learning course completion certificate, completed 2023-10-16, 1 hour 14 minutes.
+- [Unconscious Bias](https://joey-wilkes-home.vercel.app/assets/linkedin-learning/unconscious-bias.pdf): LinkedIn Learning course completion certificate, completed 2023-10-12, 28 minutes.
+- [Generative AI: Working with Large Language Models](https://joey-wilkes-home.vercel.app/assets/linkedin-learning/generative-ai-working-with-large-language-models.pdf): LinkedIn Learning course completion certificate, completed 2023-09-28, 1 hour 8 minutes.
+- [Excel: Macros and VBA for Beginners](https://joey-wilkes-home.vercel.app/assets/linkedin-learning/excel-macros-and-vba-for-beginners.pdf): LinkedIn Learning course completion certificate, completed 2023-08-07, 37 minutes.
+- [GPT-4: The New GPT Release and What You Need to Know](https://joey-wilkes-home.vercel.app/assets/linkedin-learning/gpt-4-the-new-gpt-release-and-what-you-need-to-know.pdf): LinkedIn Learning course completion certificate, completed 2023-06-12.
+- [What Is Generative AI?](https://joey-wilkes-home.vercel.app/assets/linkedin-learning/what-is-generative-ai.pdf): LinkedIn Learning course completion certificate, completed 2023-05-09, 42 min.
+- [Reinforcement Learning Foundations](https://joey-wilkes-home.vercel.app/assets/linkedin-learning/reinforcement-learning-foundations.pdf): LinkedIn Learning course completion certificate, completed 2023-04-12, 45 min.
+- [Microsoft Azure: Controlling Cost](https://joey-wilkes-home.vercel.app/assets/linkedin-learning/microsoft-azure-controlling-cost.pdf): LinkedIn Learning course completion certificate, completed 2023-04-04, 1 hour 22 min.
+- [Google Cloud: Controlling Cost](https://joey-wilkes-home.vercel.app/assets/linkedin-learning/google-cloud-controlling-cost.pdf): LinkedIn Learning course completion certificate, completed 2023-03-31, 1 hour 21 min.
+- [AWS: Controlling Cost](https://joey-wilkes-home.vercel.app/assets/linkedin-learning/aws-controlling-cost.pdf): LinkedIn Learning course completion certificate, completed 2023-03-13, 2 hours 35 min.
+- [Data Engineering Foundations](https://joey-wilkes-home.vercel.app/assets/linkedin-learning/data-engineering-foundations.pdf): LinkedIn Learning course completion certificate, completed 2022-03-20, 1 hour 3 min.
+- [Machine Learning and AI Foundations: Classification Modeling](https://joey-wilkes-home.vercel.app/assets/linkedin-learning/machine-learning-and-ai-foundations-classification-modeling.pdf): LinkedIn Learning course completion certificate, completed 2022-03-08, 2 hours 0 min.
+
+## Recommendations
+
+\* Audio clips are synthetic voices generated with ElevenLabs (Eleven v4) through OpenRouter. They do not represent the actual voice of the person who gave the recommendation.
+
+> Joey is one of my favorite humans. It's impossible to be around Joey and not be happy and optimistic about life. Our desks were close in the office, and I learned so much from Joey about data, math, AI, FinOps, Saas, and the world.
+> One thing I love about Joey is his curiosity. He wants to know how things work and is willing to put in the effort and data to solve complex problems.
+> In his time at Anglepoint, I've seen Joey grow from a new college grad to a trusted professional.
+> Because of his background in mathematics, development, and AI, he's got great breadth in the problems he works to solve.
+> I'd consider Joey a great fit for any role that requires solving very complex problems. He thrives on the challenge, and he does it all with a smile and an amazing attitude.
+
+Audio*: [Listen to this recommendation](https://joey-wilkes-home.vercel.app/assets/testimonials/additional-recommendation.wav)
+
+> As Joey's manager I found him to be dependable, diligent and technically strong. Joey is committed to doing great work and producing high quality outcomes, so he listens intently, asks insightful questions and collaborates effectively with his teammates. I always knew I could trust his honesty and his ability to deliver.
+
+Audio*: [Listen to this recommendation](https://joey-wilkes-home.vercel.app/assets/testimonials/pouya-jafarian.wav)
+
+> Joey was one of the first people at Anglepoint who made me feel welcome, and he quickly became both a friend and someone I had a lot of respect for professionally. His dedication to the company was hard to miss there were major initiatives where he would put in an incredible amount of time, sometimes working through multiple late nights, while still staying level-headed and focused on doing the job well.
+> What I appreciated most about Joey was that, despite that level of commitment, he was always kind, thoughtful, and easy to be around. We spent a lot of time talking about technology, high fantasy, and Dungeons & Dragons, and getting to know him outside of work made it even clearer how much he cares about his family, his friends, and the people around him. Any team would be lucky to have someone with his combination of dedication, intelligence, and character.
+
+Audio*: [Listen to this recommendation](https://joey-wilkes-home.vercel.app/assets/testimonials/daniel-liebelt.mp3)
+
+> I've never met someone more passionate and excited about data than Joey, and it was a real pleasure working with him. Joey was always eager to learn and take the next steps in our projects, and he did consistent great work even under difficult circumstances. Given the chance I would work with him again in a heartbeat.
+
+Audio*: [Listen to this recommendation](https://joey-wilkes-home.vercel.app/assets/testimonials/aaron-jacobson.wav)
+
+> I worked with Joey on a research project involving millions of simulations and large scale data analysis. Joey built a framework for generating and running experiments that interfaced with the resource manager on the supercomputer. He also automated much of the data visualization and analysis process. Both of these contributions culminated in a convenient, and efficient workflow for our team.
+>
+> Beyond technical accomplishments, Joey is dependable, kind and inclusive. His influence resulted in collaborative and supportive team culture. Working with Joey is exciting because he is passionate, drama-free because he is unpretentious and rewarding because he is committed.
+
+Audio*: [Listen to this recommendation](https://joey-wilkes-home.vercel.app/assets/testimonials/dj-passey.wav)
+
+> Joey went above and beyond during the MQ effort. To my knowledge, he wasn't required to stay after hours, yet he spent many late nights in the office working on MQ content. Thanks to his dedication, we now have a substantial amount of FinOps approach material and client deliverables to present to Gartner. Joey consistently demonstrates a strong commitment to team success and to the overall success of Anglepoint.
+
+Audio*: [Listen to this recommendation](https://joey-wilkes-home.vercel.app/assets/testimonials/anglepoint-mq.wav)
+
+
+Machine-readable profile: https://joey-wilkes-home.vercel.app/profile.json
+Credential metadata checked: 2026-10-01.
+Résumé source: PDF dated 2026-10-11; latest employment end date: 2026-09.

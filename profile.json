@@ -1,8 +1,8 @@
 {
   "name": "Joseph Wilkes",
   "displayName": "Joey Wilkes",
-  "site": "https://joey-wilkes.replit.app",
-  "version": "1.4.1",
+  "site": "https://joey-wilkes-home.vercel.app",
+  "version": "1.5.0",
   "focus": [
     "Data",
     "Cloud",
@@ -59,18 +59,6 @@
         "Skills for AI agents",
         "skill.md"
       ]
-    },
-    {
-      "title": "Whiteley Reunion 2026",
-      "category": "Family history",
-      "description": "A reunion hub for genealogy, schedules, food planning, and shared files.",
-      "url": "https://joeywilkes12.github.io/4amj-landing-page-01/",
-      "tags": [
-        "Web development",
-        "Design",
-        "Codex",
-        "GitHub"
-      ]
     }
   ],
   "queensSolver": {
@@ -98,14 +86,14 @@
         "width": 622,
         "height": 1280,
         "alt": "Unsolved nine-by-nine hard Queens puzzle with colored regions.",
-        "url": "https://joey-wilkes.replit.app/assets/portfolio/queens-solver/queens-input.jpg"
+        "url": "https://joey-wilkes-home.vercel.app/assets/portfolio/queens-solver/queens-input.jpg"
       },
       "output": {
         "filename": "queens-solution.png",
         "width": 1065,
         "height": 1065,
         "alt": "Solved nine-by-nine Queens board with one queen in each row, column, and color region.",
-        "url": "https://joey-wilkes.replit.app/assets/portfolio/queens-solver/queens-solution.png"
+        "url": "https://joey-wilkes-home.vercel.app/assets/portfolio/queens-solver/queens-solution.png"
       },
       "source": {
         "type": "user-supplied",
@@ -117,8 +105,8 @@
   "academicReports": [
     {
       "title": "Learning Using Thinned Networks: A Crowdsourcing Phenomena in Reservoir Computing",
-      "url": "https://joey-wilkes.replit.app/academic-experience/reservoir-thinning/",
-      "pdf": "https://joey-wilkes.replit.app/assets/reports/reservoir-thinning.pdf",
+      "url": "https://joey-wilkes-home.vercel.app/academic-experience/reservoir-thinning/",
+      "pdf": "https://joey-wilkes-home.vercel.app/assets/reports/reservoir-thinning.pdf",
       "authors": [
         "J. Jamieson",
         "D. J. Passey",
@@ -132,17 +120,17 @@
         "presenter": "Joseph Wilkes",
         "video": "https://youtu.be/3xfIXrZQfDg",
         "uploadDate": "2021-07-23",
-        "slidesPdf": "https://joey-wilkes.replit.app/assets/presentations/reservoir-thinning/siam-5-final.pdf",
+        "slidesPdf": "https://joey-wilkes-home.vercel.app/assets/presentations/reservoir-thinning/siam-5-final.pdf",
         "slideCount": 54,
-        "lorenzAnimation": "https://joey-wilkes.replit.app/assets/presentations/reservoir-thinning/lorenz-animation-4.mp4",
-        "lorenzNotebook": "https://joey-wilkes.replit.app/assets/presentations/reservoir-thinning/lorenz-equations.ipynb",
-        "transcript": "https://joey-wilkes.replit.app/academic-experience/reservoir-thinning/#presentation-transcript"
+        "lorenzAnimation": "https://joey-wilkes-home.vercel.app/assets/presentations/reservoir-thinning/lorenz-animation-4.mp4",
+        "lorenzNotebook": "https://joey-wilkes-home.vercel.app/assets/presentations/reservoir-thinning/lorenz-equations.ipynb",
+        "transcript": "https://joey-wilkes-home.vercel.app/academic-experience/reservoir-thinning/#presentation-transcript"
       }
     },
     {
       "title": "RISK Data Project Fall 2020",
-      "url": "https://joey-wilkes.replit.app/academic-experience/risk-game-prediction/",
-      "pdf": "https://joey-wilkes.replit.app/assets/reports/risk-game-prediction.pdf",
+      "url": "https://joey-wilkes-home.vercel.app/academic-experience/risk-game-prediction/",
+      "pdf": "https://joey-wilkes-home.vercel.app/assets/reports/risk-game-prediction.pdf",
       "authors": [
         "Jacob Murri",
         "Joseph Wilkes",
@@ -154,8 +142,8 @@
     },
     {
       "title": "A Natural Language Processing Analysis of General Conference Discourses Employing Time-Series and Classification Models",
-      "url": "https://joey-wilkes.replit.app/academic-experience/general-conference-nlp/",
-      "pdf": "https://joey-wilkes.replit.app/assets/reports/general-conference-nlp.pdf",
+      "url": "https://joey-wilkes-home.vercel.app/academic-experience/general-conference-nlp/",
+      "pdf": "https://joey-wilkes-home.vercel.app/assets/reports/general-conference-nlp.pdf",
       "authors": [
         "Clark Brown",
         "Mikelle Rogers",
@@ -168,8 +156,8 @@
     },
     {
       "title": "Let's All Go To The Movies",
-      "url": "https://joey-wilkes.replit.app/academic-experience/prediction-movie-revenue/",
-      "pdf": "https://joey-wilkes.replit.app/assets/reports/prediction-movie-revenue.pdf",
+      "url": "https://joey-wilkes-home.vercel.app/academic-experience/prediction-movie-revenue/",
+      "pdf": "https://joey-wilkes-home.vercel.app/assets/reports/prediction-movie-revenue.pdf",
       "authors": [
         "Joseph Wilkes",
         "Jacob Rohde",
@@ -180,8 +168,8 @@
     },
     {
       "title": "Non-Trivial Evasion",
-      "url": "https://joey-wilkes.replit.app/academic-experience/non-trivial-evasion/",
-      "pdf": "https://joey-wilkes.replit.app/assets/reports/non-trivial-evasion.pdf",
+      "url": "https://joey-wilkes-home.vercel.app/academic-experience/non-trivial-evasion/",
+      "pdf": "https://joey-wilkes-home.vercel.app/assets/reports/non-trivial-evasion.pdf",
       "authors": [
         "Taylor Gledhill",
         "Joseph Wilkes",
@@ -193,8 +181,8 @@
     },
     {
       "title": "Non-Trivial Pursuit",
-      "url": "https://joey-wilkes.replit.app/academic-experience/non-trivial-pursuit/",
-      "pdf": "https://joey-wilkes.replit.app/assets/reports/non-trivial-pursuit.pdf",
+      "url": "https://joey-wilkes-home.vercel.app/academic-experience/non-trivial-pursuit/",
+      "pdf": "https://joey-wilkes-home.vercel.app/assets/reports/non-trivial-pursuit.pdf",
       "authors": [
         "Taylor Gledhill",
         "Joseph Wilkes",
@@ -206,8 +194,8 @@
     },
     {
       "title": "Evaluation of Childhood Computational Thinking with ScratchJR and Robot Toys: A Literature Review",
-      "url": "https://joey-wilkes.replit.app/academic-experience/literature-review/",
-      "pdf": "https://joey-wilkes.replit.app/assets/reports/literature-review.pdf",
+      "url": "https://joey-wilkes-home.vercel.app/academic-experience/literature-review/",
+      "pdf": "https://joey-wilkes-home.vercel.app/assets/reports/literature-review.pdf",
       "authors": [
         "Joseph Wilkes"
       ],
@@ -215,10 +203,10 @@
       "pageCount": 16
     }
   ],
-  "resume": "https://joey-wilkes.replit.app/resume/",
+  "resume": "https://joey-wilkes-home.vercel.app/resume/",
   "certifications": "https://joeywilkes12.github.io/certifications-site/",
   "credentials": {
-    "page": "https://joey-wilkes.replit.app/professional-experience/",
+    "page": "https://joey-wilkes-home.vercel.app/professional-experience/",
     "certificationsSite": "https://joeywilkes12.github.io/certifications-site/",
     "checkedOn": "2026-10-01",
     "completed": [
@@ -233,7 +221,7 @@
         "completedOn": "2024-12-31",
         "expiresOn": "2026-12-31",
         "verificationUrl": "https://www.credly.com/badges/dd6728ed-f889-4051-a53e-6bad93a51584/public_url",
-        "page": "https://joey-wilkes.replit.app/professional-experience/certifications/google-ml/"
+        "page": "https://joey-wilkes-home.vercel.app/professional-experience/certifications/google-ml/"
       },
       {
         "title": "AWS Certified AI Practitioner",
@@ -245,7 +233,7 @@
         ],
         "completedOn": "2026-01-30",
         "verificationUrl": "https://www.credly.com/badges/2f2ec1ba-f2bd-40f1-b322-ec79e414ae00/public_url",
-        "page": "https://joey-wilkes.replit.app/professional-experience/certifications/aws-ai/"
+        "page": "https://joey-wilkes-home.vercel.app/professional-experience/certifications/aws-ai/"
       },
       {
         "title": "FinOps Certified Engineer",
@@ -256,7 +244,7 @@
         ],
         "completedOn": "2024-06-13",
         "verificationUrl": "https://verify.skilljar.com/c/ckaxerie5ww8",
-        "page": "https://joey-wilkes.replit.app/professional-experience/certifications/finops-engineer/"
+        "page": "https://joey-wilkes-home.vercel.app/professional-experience/certifications/finops-engineer/"
       },
       {
         "title": "FinOps Certified FOCUS Analyst",
@@ -267,7 +255,7 @@
         ],
         "completedOn": "2025-02-05",
         "verificationUrl": "https://www.credly.com/badges/9ae9171a-a842-4896-bb27-c874d06f53fc/public_url",
-        "page": "https://joey-wilkes.replit.app/professional-experience/certifications/focus-analyst/"
+        "page": "https://joey-wilkes-home.vercel.app/professional-experience/certifications/focus-analyst/"
       },
       {
         "title": "Azure Fundamentals",
@@ -278,7 +266,7 @@
         ],
         "completedOn": "2023-11-29",
         "verificationUrl": "https://learn.microsoft.com/api/credentials/share/en-us/JoeyWilkes-1001/AD3D2D6ABEDDDC66?sharingId=3F32F982CE31032D",
-        "page": "https://joey-wilkes.replit.app/professional-experience/certifications/azure-fundamentals/"
+        "page": "https://joey-wilkes-home.vercel.app/professional-experience/certifications/azure-fundamentals/"
       },
       {
         "title": "Cloud GreenOps Philosopher",
@@ -289,7 +277,7 @@
         ],
         "completedOn": "2026-05-28",
         "verificationUrl": "https://www.credly.com/badges/f3b7ed7e-91b1-4d14-b83b-4163beddfebc/public_url",
-        "page": "https://joey-wilkes.replit.app/professional-experience/certifications/greenops/"
+        "page": "https://joey-wilkes-home.vercel.app/professional-experience/certifications/greenops/"
       },
       {
         "title": "Introduction to agent skills",
@@ -300,7 +288,7 @@
         ],
         "completedOn": "2026-07-08",
         "verificationUrl": "https://verify.skilljar.com/c/i4mdmrt77b6o",
-        "page": "https://joey-wilkes.replit.app/professional-experience/certifications/anthropic-skills/"
+        "page": "https://joey-wilkes-home.vercel.app/professional-experience/certifications/anthropic-skills/"
       },
       {
         "title": "Introduction to FOCUS",
@@ -311,7 +299,7 @@
         ],
         "completedOn": "2024-08-19",
         "verificationUrl": "https://verify.skilljar.com/c/888zd885g2hd",
-        "page": "https://joey-wilkes.replit.app/professional-experience/certifications/focus-intro/"
+        "page": "https://joey-wilkes-home.vercel.app/professional-experience/certifications/focus-intro/"
       },
       {
         "title": "FinOps Certified Practitioner",
@@ -323,7 +311,7 @@
         "completedOn": "2022-11-05",
         "issuerStatus": "expired",
         "verificationUrl": "https://www.credly.com/badges/b2709299-45c8-4883-9665-503758019a86/public_url",
-        "page": "https://joey-wilkes.replit.app/professional-experience/certifications/finops-practitioner/"
+        "page": "https://joey-wilkes-home.vercel.app/professional-experience/certifications/finops-practitioner/"
       },
       {
         "title": "FinOps for Containers",
@@ -335,7 +323,7 @@
         "completedOn": "2023-10-18",
         "issuerStatus": "expired",
         "verificationUrl": "https://www.credly.com/badges/2f5bba5f-1d07-4b70-91b7-13f988059f1d/public_url",
-        "page": "https://joey-wilkes.replit.app/professional-experience/certifications/finops-containers/"
+        "page": "https://joey-wilkes-home.vercel.app/professional-experience/certifications/finops-containers/"
       },
       {
         "title": "AI Value: Introduction",
@@ -347,7 +335,7 @@
         ],
         "completedOn": null,
         "source": "https://learn.finops.org/path/certified-finops-for-ai",
-        "page": "https://joey-wilkes.replit.app/professional-experience/certifications/ai-value-introduction/"
+        "page": "https://joey-wilkes-home.vercel.app/professional-experience/certifications/ai-value-introduction/"
       }
     ],
     "inProgress": [
@@ -357,7 +345,7 @@
         "kind": "Certification pathway",
         "status": "in-progress",
         "source": "https://learn.finops.org/path/certified-finops-for-ai",
-        "page": "https://joey-wilkes.replit.app/professional-experience/certifications/ai-value/"
+        "page": "https://joey-wilkes-home.vercel.app/professional-experience/certifications/ai-value/"
       },
       {
         "title": "AI Value: Level 1",
@@ -365,7 +353,7 @@
         "kind": "Training course",
         "status": "in-progress",
         "source": "https://learn.finops.org/path/certified-finops-for-ai",
-        "page": "https://joey-wilkes.replit.app/professional-experience/certifications/ai-value-l1/"
+        "page": "https://joey-wilkes-home.vercel.app/professional-experience/certifications/ai-value-l1/"
       },
       {
         "title": "AI Value: Level 2",
@@ -373,7 +361,7 @@
         "kind": "Training course",
         "status": "to-do",
         "source": "https://learn.finops.org/path/certified-finops-for-ai",
-        "page": "https://joey-wilkes.replit.app/professional-experience/certifications/ai-value-l2/"
+        "page": "https://joey-wilkes-home.vercel.app/professional-experience/certifications/ai-value-l2/"
       },
       {
         "title": "AI Value: Level 3",
@@ -381,7 +369,7 @@
         "kind": "Training course",
         "status": "to-do",
         "source": "https://learn.finops.org/path/certified-finops-for-ai",
-        "page": "https://joey-wilkes.replit.app/professional-experience/certifications/ai-value-l3/"
+        "page": "https://joey-wilkes-home.vercel.app/professional-experience/certifications/ai-value-l3/"
       },
       {
         "title": "AI Value: Certification course",
@@ -389,7 +377,7 @@
         "kind": "Certification course & exam",
         "status": "to-do",
         "source": "https://learn.finops.org/path/certified-finops-for-ai",
-        "page": "https://joey-wilkes.replit.app/professional-experience/certifications/ai-value-final/"
+        "page": "https://joey-wilkes-home.vercel.app/professional-experience/certifications/ai-value-final/"
       },
       {
         "title": "GreenOps for AI",
@@ -397,13 +385,13 @@
         "kind": "Training course",
         "status": "in-progress",
         "source": "https://academy.greenpixie.com/course/cloud-greenops-for-ai",
-        "page": "https://joey-wilkes.replit.app/professional-experience/certifications/greenops-ai/"
+        "page": "https://joey-wilkes-home.vercel.app/professional-experience/certifications/greenops-ai/"
       }
     ],
     "googleSkillsBadges": {
       "count": 17,
       "profile": "https://www.skills.google/public_profiles/96cc2ec8-2aa7-4b78-ab59-7bf58f012703",
-      "page": "https://joey-wilkes.replit.app/professional-experience/#google-skills-badges",
+      "page": "https://joey-wilkes-home.vercel.app/professional-experience/#google-skills-badges",
       "badges": [
         {
           "title": "Create Generative AI Apps on Google Cloud",
@@ -496,122 +484,122 @@
     },
     "linkedinLearning": {
       "count": 19,
-      "page": "https://joey-wilkes.replit.app/professional-experience/#linkedin-learning",
+      "page": "https://joey-wilkes-home.vercel.app/professional-experience/#linkedin-learning",
       "certificates": [
         {
           "title": "Decision Intelligence",
           "earnedOn": "2023-09-29",
           "duration": "1 hour 25 minutes",
-          "pdf": "https://joey-wilkes.replit.app/assets/linkedin-learning/decision-intelligence.pdf",
+          "pdf": "https://joey-wilkes-home.vercel.app/assets/linkedin-learning/decision-intelligence.pdf",
           "favorite": true
         },
         {
           "title": "LLMs for Enterprise: Technical Protocols, Considerations, and Data Privacy",
           "earnedOn": "2024-08-20",
           "duration": "15 minutes",
-          "pdf": "https://joey-wilkes.replit.app/assets/linkedin-learning/llms-for-enterprise-technical-protocols-considerations-and-data-privacy.pdf"
+          "pdf": "https://joey-wilkes-home.vercel.app/assets/linkedin-learning/llms-for-enterprise-technical-protocols-considerations-and-data-privacy.pdf"
         },
         {
           "title": "Managing AI Security Risks with ISO 27001",
           "earnedOn": "2024-08-16",
           "duration": "1 hour 29 minutes",
-          "pdf": "https://joey-wilkes.replit.app/assets/linkedin-learning/managing-ai-security-risks-with-iso-27001.pdf"
+          "pdf": "https://joey-wilkes-home.vercel.app/assets/linkedin-learning/managing-ai-security-risks-with-iso-27001.pdf"
         },
         {
           "title": "Use Copilot AI for Secure Work Data in Your Organization",
           "earnedOn": "2024-08-15",
           "duration": "18 minutes",
-          "pdf": "https://joey-wilkes.replit.app/assets/linkedin-learning/use-copilot-ai-for-secure-work-data-in-your-organization.pdf"
+          "pdf": "https://joey-wilkes-home.vercel.app/assets/linkedin-learning/use-copilot-ai-for-secure-work-data-in-your-organization.pdf"
         },
         {
           "title": "Securing the Use of Generative AI in Your Organization",
           "earnedOn": "2024-07-27",
           "duration": "1 hour 15 minutes",
-          "pdf": "https://joey-wilkes.replit.app/assets/linkedin-learning/securing-the-use-of-generative-ai-in-your-organization.pdf"
+          "pdf": "https://joey-wilkes-home.vercel.app/assets/linkedin-learning/securing-the-use-of-generative-ai-in-your-organization.pdf"
         },
         {
           "title": "Agile Foundations",
           "earnedOn": "2024-01-31",
           "duration": "1 hour 35 minutes",
-          "pdf": "https://joey-wilkes.replit.app/assets/linkedin-learning/agile-foundations.pdf"
+          "pdf": "https://joey-wilkes-home.vercel.app/assets/linkedin-learning/agile-foundations.pdf"
         },
         {
           "title": "Introduction to ESG: Environmental, Social, and Governance",
           "earnedOn": "2023-12-01",
           "duration": "44 minutes",
-          "pdf": "https://joey-wilkes.replit.app/assets/linkedin-learning/introduction-to-esg-environmental-social-and-governance.pdf"
+          "pdf": "https://joey-wilkes-home.vercel.app/assets/linkedin-learning/introduction-to-esg-environmental-social-and-governance.pdf"
         },
         {
           "title": "Understanding and Prioritizing Data Privacy",
           "earnedOn": "2023-10-16",
           "duration": "1 hour 14 minutes",
-          "pdf": "https://joey-wilkes.replit.app/assets/linkedin-learning/understanding-and-prioritizing-data-privacy.pdf"
+          "pdf": "https://joey-wilkes-home.vercel.app/assets/linkedin-learning/understanding-and-prioritizing-data-privacy.pdf"
         },
         {
           "title": "Unconscious Bias",
           "earnedOn": "2023-10-12",
           "duration": "28 minutes",
-          "pdf": "https://joey-wilkes.replit.app/assets/linkedin-learning/unconscious-bias.pdf"
+          "pdf": "https://joey-wilkes-home.vercel.app/assets/linkedin-learning/unconscious-bias.pdf"
         },
         {
           "title": "Generative AI: Working with Large Language Models",
           "earnedOn": "2023-09-28",
           "duration": "1 hour 8 minutes",
-          "pdf": "https://joey-wilkes.replit.app/assets/linkedin-learning/generative-ai-working-with-large-language-models.pdf"
+          "pdf": "https://joey-wilkes-home.vercel.app/assets/linkedin-learning/generative-ai-working-with-large-language-models.pdf"
         },
         {
           "title": "Excel: Macros and VBA for Beginners",
           "earnedOn": "2023-08-07",
           "duration": "37 minutes",
-          "pdf": "https://joey-wilkes.replit.app/assets/linkedin-learning/excel-macros-and-vba-for-beginners.pdf"
+          "pdf": "https://joey-wilkes-home.vercel.app/assets/linkedin-learning/excel-macros-and-vba-for-beginners.pdf"
         },
         {
           "title": "GPT-4: The New GPT Release and What You Need to Know",
           "earnedOn": "2023-06-12",
           "duration": null,
-          "pdf": "https://joey-wilkes.replit.app/assets/linkedin-learning/gpt-4-the-new-gpt-release-and-what-you-need-to-know.pdf"
+          "pdf": "https://joey-wilkes-home.vercel.app/assets/linkedin-learning/gpt-4-the-new-gpt-release-and-what-you-need-to-know.pdf"
         },
         {
           "title": "What Is Generative AI?",
           "earnedOn": "2023-05-09",
           "duration": "42 min",
-          "pdf": "https://joey-wilkes.replit.app/assets/linkedin-learning/what-is-generative-ai.pdf"
+          "pdf": "https://joey-wilkes-home.vercel.app/assets/linkedin-learning/what-is-generative-ai.pdf"
         },
         {
           "title": "Reinforcement Learning Foundations",
           "earnedOn": "2023-04-12",
           "duration": "45 min",
-          "pdf": "https://joey-wilkes.replit.app/assets/linkedin-learning/reinforcement-learning-foundations.pdf"
+          "pdf": "https://joey-wilkes-home.vercel.app/assets/linkedin-learning/reinforcement-learning-foundations.pdf"
         },
         {
           "title": "Microsoft Azure: Controlling Cost",
           "earnedOn": "2023-04-04",
           "duration": "1 hour 22 min",
-          "pdf": "https://joey-wilkes.replit.app/assets/linkedin-learning/microsoft-azure-controlling-cost.pdf"
+          "pdf": "https://joey-wilkes-home.vercel.app/assets/linkedin-learning/microsoft-azure-controlling-cost.pdf"
         },
         {
           "title": "Google Cloud: Controlling Cost",
           "earnedOn": "2023-03-31",
           "duration": "1 hour 21 min",
-          "pdf": "https://joey-wilkes.replit.app/assets/linkedin-learning/google-cloud-controlling-cost.pdf"
+          "pdf": "https://joey-wilkes-home.vercel.app/assets/linkedin-learning/google-cloud-controlling-cost.pdf"
         },
         {
           "title": "AWS: Controlling Cost",
           "earnedOn": "2023-03-13",
           "duration": "2 hours 35 min",
-          "pdf": "https://joey-wilkes.replit.app/assets/linkedin-learning/aws-controlling-cost.pdf"
+          "pdf": "https://joey-wilkes-home.vercel.app/assets/linkedin-learning/aws-controlling-cost.pdf"
         },
         {
           "title": "Data Engineering Foundations",
           "earnedOn": "2022-03-20",
           "duration": "1 hour 3 min",
-          "pdf": "https://joey-wilkes.replit.app/assets/linkedin-learning/data-engineering-foundations.pdf"
+          "pdf": "https://joey-wilkes-home.vercel.app/assets/linkedin-learning/data-engineering-foundations.pdf"
         },
         {
           "title": "Machine Learning and AI Foundations: Classification Modeling",
           "earnedOn": "2022-03-08",
           "duration": "2 hours 0 min",
-          "pdf": "https://joey-wilkes.replit.app/assets/linkedin-learning/machine-learning-and-ai-foundations-classification-modeling.pdf"
+          "pdf": "https://joey-wilkes-home.vercel.app/assets/linkedin-learning/machine-learning-and-ai-foundations-classification-modeling.pdf"
         }
       ]
     }
@@ -620,7 +608,21 @@
     "count": 6,
     "quoteOnly": true,
     "automaticRotation": false,
-    "source": "shared-assets/testimonials/approved-quotes.json"
+    "source": "shared-assets/testimonials/approved-quotes.json",
+    "audio": {
+      "count": 6,
+      "synthetic": true,
+      "generatedWith": "ElevenLabs Eleven v4 through OpenRouter",
+      "note": "Audio clips are synthetic voices generated with ElevenLabs (Eleven v4) through OpenRouter. They do not represent the actual voice of the person who gave the recommendation.",
+      "clips": [
+        "https://joey-wilkes-home.vercel.app/assets/testimonials/additional-recommendation.wav",
+        "https://joey-wilkes-home.vercel.app/assets/testimonials/pouya-jafarian.wav",
+        "https://joey-wilkes-home.vercel.app/assets/testimonials/daniel-liebelt.mp3",
+        "https://joey-wilkes-home.vercel.app/assets/testimonials/aaron-jacobson.wav",
+        "https://joey-wilkes-home.vercel.app/assets/testimonials/dj-passey.wav",
+        "https://joey-wilkes-home.vercel.app/assets/testimonials/anglepoint-mq.wav"
+      ]
+    }
   },
   "source": {
     "resume": {
