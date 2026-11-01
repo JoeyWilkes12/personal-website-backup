@@ -1,6 +1,6 @@
 # Joseph (Joey) Wilkes
 
-> Data, cloud, and AI portfolio. 3 portfolio websites, seven academic reports, 11 completed certifications and courses, 17 Google Skills badges, 19 LinkedIn Learning certificates, résumé, and 6 recommendations.
+> Data, cloud, and AI portfolio. 4 portfolio websites, seven academic reports, 11 completed certifications and courses, 17 Google Skills badges, 19 LinkedIn Learning certificates, résumé, and 6 recommendations.
 
 ## Site index
 
@@ -75,6 +75,7 @@ Coursework: Machine Learning, Optimization, Algorithm Design, Linear Algebra, Di
 - [How well can AI models play Queens?](https://joeywilkes12.github.io/queens-model-assessment/#/executive-summary): AI Evals. Extensive computational & scientific assessment of various AI models ability to play logical puzzle Queens. Tags: Frontier Foundation Models, Decision Models, Jev, OpenRouter, LangSmith, SubQ Snap. Also: [Open Queens Solver](https://joeywilkes12.github.io/queens-solver-router/).
 - [FinOps FOCUS Explorer](https://joeywilkes12.github.io/finops-focus-router/): Cloud Cost Management. A cost dashboard, data explorer, and live use case queries over the FinOps FOCUS 1.0 sample billing data from Amazon Web Services (AWS), Microsoft Azure, Oracle Cloud Infrastructure (OCI), and Google Cloud Platform (GCP). Tags: Forecasting, time-series, Prophet, SQL, IT Financial Management, Cost Anomaly detection.
 - [Agent Skills Resource Library](https://joeywilkes12.github.io/agent-skills-resource-library/): AI agents. Resources and guides for building, troubleshooting, and evaluating AI agent skills. Tags: MCP, Skills for AI agents, skill.md.
+- [PyRisk field manual](https://joeywilkes12.github.io/pyrisk-router/): Data science. An interactive field manual that teaches supervised machine learning through 5,141 simulated six-player Risk games: game-grouped splits, calibrated win probabilities, TreeSHAP attribution, and survival analysis. Tags: Data science, Supervised machine learning, scikit-learn (sklearn), XGBoost, Python, Data analysis, Model calibration, SHAP explainability, Survival analysis, Feature engineering. Research origin: [RISK Game Prediction](https://joey-wilkes-home.vercel.app/academic-experience/risk-game-prediction/).
 - [Queens Solver](https://joeywilkes12.github.io/queens-solver-router/): Turn a Queens screenshot into a solved board with computer vision and constraint solving. Technology: Python, OpenCV, Z3, Streamlit.
 - Queens Solver example: a hard puzzle from 2026-10-04 solved in 20 seconds against a 4 minute 17 second player average (as of 5 October 2026, 03:20 UTC), with Python, OpenCV, Z3, Streamlit.
 
@@ -93,6 +94,7 @@ Coursework: Machine Learning, Optimization, Algorithm Design, Linear Algebra, Di
 - Authors: Jacob Murri, Joseph Wilkes, Caleb Wilson, Lukas Erekson. Document date: December 10, 2020.
 - Topics: Machine learning, Simulation, Data engineering.
 - [Original report PDF (17 pages)](https://joey-wilkes-home.vercel.app/assets/reports/risk-game-prediction.pdf)
+- Portfolio extension: [PyRisk field manual](https://joeywilkes12.github.io/pyrisk-router/): An interactive field manual that teaches supervised machine learning through 5,141 simulated six-player Risk games: game-grouped splits, calibrated win probabilities, TreeSHAP attribution, and survival analysis.
 
 ### General Conference NLP
 
