@@ -1,2 +1,5 @@
-:HL["/personal-website-backup/_next/static/css/8111428c8ca1cdf9.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"academic-experience","param":null,"prefetchHints":4192,"slots":{"children":{"name":"slug","param":{"type":"d","key":"risk-game-prediction","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"o4-mc9u6xeQT3btYa0qJ9"}
+:HL["/personal-website-backup/_next/static/chunks/1y8udbnmc9rxy.css","style"]
+3:[["children",{"s":"__PAGE__","h":160}]]
+2:[["children",{"s":{"n":"slug","t":"d","k":"risk-game-prediction","s":[]},"h":65632,"c":"$Q3"}]]
+1:[["children",{"s":"academic-experience","h":131168,"c":"$Q2"}]]
+0:{"b":"yyGjlWhT-15S9QiAbyE8c","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}

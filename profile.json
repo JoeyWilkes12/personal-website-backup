@@ -2,7 +2,7 @@
   "name": "Joseph Wilkes",
   "displayName": "Joey Wilkes",
   "site": "https://joey-wilkes-home.vercel.app",
-  "version": "1.5.1",
+  "version": "1.6.0",
   "focus": [
     "Data",
     "Cloud",
@@ -58,6 +58,26 @@
         "MCP",
         "Skills for AI agents",
         "skill.md"
+      ]
+    },
+    {
+      "title": "PyRisk field manual",
+      "category": "Data science",
+      "description": "An interactive field manual that teaches supervised machine learning through 5,141 simulated six-player Risk games: game-grouped splits, calibrated win probabilities, TreeSHAP attribution, and survival analysis.",
+      "url": "https://joeywilkes12.github.io/pyrisk-router/",
+      "anchor": "pyrisk-field-manual",
+      "academicReport": "risk-game-prediction",
+      "tags": [
+        "Data science",
+        "Supervised machine learning",
+        "scikit-learn (sklearn)",
+        "XGBoost",
+        "Python",
+        "Data analysis",
+        "Model calibration",
+        "SHAP explainability",
+        "Survival analysis",
+        "Feature engineering"
       ]
     }
   ],
@@ -138,7 +158,14 @@
         "Lukas Erekson"
       ],
       "documentDate": "2020-12-10",
-      "pageCount": 17
+      "pageCount": 17,
+      "portfolioProjects": [
+        {
+          "title": "PyRisk field manual",
+          "url": "https://joeywilkes12.github.io/pyrisk-router/",
+          "page": "https://joey-wilkes-home.vercel.app/portfolio/#pyrisk-field-manual"
+        }
+      ]
     },
     {
       "title": "A Natural Language Processing Analysis of General Conference Discourses Employing Time-Series and Classification Models",
