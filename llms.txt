@@ -1,6 +1,6 @@
 # Joseph (Joey) Wilkes
 
-> Data, cloud, and AI portfolio. 4 portfolio websites, seven academic reports, 11 completed certifications and courses, 17 Google Skills badges, 19 LinkedIn Learning certificates, résumé, and 6 recommendations.
+> Data, cloud, and AI portfolio. 4 portfolio websites, seven academic reports, 11 completed certifications and courses, 17 Google Skills badges, 19 LinkedIn Learning certificates, résumé, and 7 recommendations.
 
 ## Site index
 
@@ -240,6 +240,9 @@ Audio*: [Listen to this recommendation](https://joey-wilkes-home.vercel.app/asse
 > Joey went above and beyond during the MQ effort. To my knowledge, he wasn't required to stay after hours, yet he spent many late nights in the office working on MQ content. Thanks to his dedication, we now have a substantial amount of FinOps approach material and client deliverables to present to Gartner. Joey consistently demonstrates a strong commitment to team success and to the overall success of Anglepoint.
 
 Audio*: [Listen to this recommendation](https://joey-wilkes-home.vercel.app/assets/testimonials/anglepoint-mq.wav)
+
+> Joey is a standout employee. He tackles open-ended problems creatively and tenaciously, and he readily shares what he learns with others.
+> Over the last two years, he's become an invaluable peer mentor, helping colleagues find practical ways to use AI more efficiently in their everyday work and cheering them on each step of the way. Impressively, he consistently makes a point of recognizing others' accomplishments. Joey's technical ingenuity and collaborative spirit help both the company and its employees grow.
 
 
 Machine-readable profile: https://joey-wilkes-home.vercel.app/profile.json

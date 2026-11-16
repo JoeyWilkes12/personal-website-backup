@@ -2,7 +2,7 @@
   "name": "Joseph Wilkes",
   "displayName": "Joey Wilkes",
   "site": "https://joey-wilkes-home.vercel.app",
-  "version": "1.6.0",
+  "version": "1.6.1",
   "focus": [
     "Data",
     "Cloud",
@@ -632,7 +632,7 @@
     }
   },
   "recommendations": {
-    "count": 6,
+    "count": 7,
     "quoteOnly": true,
     "automaticRotation": false,
     "source": "shared-assets/testimonials/approved-quotes.json",
