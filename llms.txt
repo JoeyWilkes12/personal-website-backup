@@ -9,6 +9,7 @@
 - [Professional experience](https://joey-wilkes-home.vercel.app/professional-experience/)
 - [Academic experience](https://joey-wilkes-home.vercel.app/academic-experience/)
 - [Résumé](https://joey-wilkes-home.vercel.app/resume/)
+- [AI FinOps Engineer at T. Rowe Price](https://joey-wilkes-home.vercel.app/resume/t-rowe-price/)
 - [Reservoir Thinning](https://joey-wilkes-home.vercel.app/academic-experience/reservoir-thinning/)
 - [RISK Game Prediction](https://joey-wilkes-home.vercel.app/academic-experience/risk-game-prediction/)
 - [General Conference NLP](https://joey-wilkes-home.vercel.app/academic-experience/general-conference-nlp/)
@@ -21,6 +22,51 @@
 
 Name: Joseph Wilkes; also known as Joey Wilkes.
 [Full résumé](https://joey-wilkes-home.vercel.app/resume/) | [Résumé PDF](https://joey-wilkes-home.vercel.app/assets/resume/joseph-wilkes-resume.pdf) | [LinkedIn](https://www.linkedin.com/in/joseph-b-wilkes) | [GitHub](https://github.com/JoeyWilkes12)
+
+### AI FinOps Engineer — T. Rowe Price
+
+December 2026 – Present | On-site in Maryland, USA
+
+[Full job description](https://joey-wilkes-home.vercel.app/resume/t-rowe-price/)
+
+#### Responsibilities from the job posting
+
+- Develop and maintain cost transparency for AI and machine learning workloads, including compute,storage, networking, model training, inference, and third-party AI platform usage.
+- Create and manage reporting,dashboards, and KPIs to track AI-related spend, utilization, efficiency, and business value across teams and use cases.
+- Partner with architecture, engineering, platform, and data science teams to identify opportunities to improve cost, performance, and utilization of AI infrastructure and services.
+- Analyze AI workload consumption patterns and recommend optimization strategies related to:  (1) model selection and deployment approach (2) compute and GPU sizing (3) workload scheduling (4)storage lifecycle management (5) inference efficiency (6) vendor and API usage
+- Support the design and implementation of showback and chargeback models for AI-related services to improve accountability and decision-making.
+- Build forecasting and budgeting models for AI platform usage, cloud consumption, and external vendor spend.
+- Help define and enforce lightweight governance standards for AI infrastructure, including tagging, budgeting, provisioning controls, usage monitoring, and lifecycle management.
+- Collaborate with Finance and Procurement to support vendor evaluation, pricing analysis, contract planning, and consumption optimization for AI platforms and services.
+- Partner with Risk, Security, and Compliance stakeholders to ensure AI cost optimization practices align with enterprise controls and regulatory expectations.
+- Automate cost management and governance processes using scripting, infrastructure-as-code, and cloud-native tooling.
+- Evaluate tradeoffs among hosted AI services, internally managed platforms, and open-source model deployments with a focus on cost, scalability, security, and operational supportability.
+- Contribute to firmwide best practices for responsible, efficient, and scalable AI adoption.
+
+#### Required qualifications
+
+- Bachelor’s degree or equivalent work experience in Computer Science, Engineering, Information Systems, Finance, Data Analytics, or a related field.
+- Experience in one or more of the following areas: FinOps, cloud engineering, platform engineering, DevOps, MLOps, data engineering, or infrastructure cost management.
+- Deep familiarity with LLM pricing mechanics: context windows, caching, batching, input/output token splits, and tier structures.
+- Strong understanding of cloud cost drivers, including compute, storage, networking, and managed platform services.
+- Familiarity with AI/ML workload patterns such as model training, fine-tuning, batch inference, real-time inference, and data pipeline processing.
+- Experience with at least one major cloud platform, such as AWS or Azure.
+- Experience using cloud cost management, observability, or reporting tools.
+- Proficiency in Python, SQL, or similar scripting/query languages.
+- Experience building dashboards, reports, or analytics to support cost transparency and operational decision-making.
+- Strong analytical and problem-solving skills with the ability to translate technical usage into financial and business insights.
+- Strong communication andcollaboration skills, with the ability to work effectively across technical, operational, and business teams.
+
+#### Preferred qualifications
+
+- Experience supporting generative AI or large language model workloads, including token-based pricing models and inference cost optimization.
+- Familiarity with enterprise AI and data platforms such as Databricks, Snowflake, SageMaker, Azure ML, or similar technologies.
+- Understanding of GPU utilization,accelerator economics, and performance-cost tradeoff analysis.
+- Knowledge of enterprise tagging, cost allocation, and budget governance practices.
+- Experience in a financial services or other highly regulated environment.
+- Familiarity with enterprise risk, security, and control expectations related to technology and data platforms.
+- Relevant certifications in cloud platforms, FinOps, TechnologyBusiness Management or infrastructure engineering.
 
 ### Data Scientist & Data Science Consultant, Product Office — Anglepoint
 
@@ -208,38 +254,24 @@ Coursework: Machine Learning, Optimization, Algorithm Design, Linear Algebra, Di
 
 ## Recommendations
 
-\* Audio clips are synthetic voices generated with ElevenLabs (Eleven v4) through OpenRouter. They do not represent the actual voice of the person who gave the recommendation.
-
 > Joey is one of my favorite humans. It's impossible to be around Joey and not be happy and optimistic about life. Our desks were close in the office, and I learned so much from Joey about data, math, AI, FinOps, Saas, and the world.
 > One thing I love about Joey is his curiosity. He wants to know how things work and is willing to put in the effort and data to solve complex problems.
 > In his time at Anglepoint, I've seen Joey grow from a new college grad to a trusted professional.
 > Because of his background in mathematics, development, and AI, he's got great breadth in the problems he works to solve.
 > I'd consider Joey a great fit for any role that requires solving very complex problems. He thrives on the challenge, and he does it all with a smile and an amazing attitude.
 
-Audio*: [Listen to this recommendation](https://joey-wilkes-home.vercel.app/assets/testimonials/additional-recommendation.wav)
-
 > As Joey's manager I found him to be dependable, diligent and technically strong. Joey is committed to doing great work and producing high quality outcomes, so he listens intently, asks insightful questions and collaborates effectively with his teammates. I always knew I could trust his honesty and his ability to deliver.
-
-Audio*: [Listen to this recommendation](https://joey-wilkes-home.vercel.app/assets/testimonials/pouya-jafarian.wav)
 
 > Joey was one of the first people at Anglepoint who made me feel welcome, and he quickly became both a friend and someone I had a lot of respect for professionally. His dedication to the company was hard to miss there were major initiatives where he would put in an incredible amount of time, sometimes working through multiple late nights, while still staying level-headed and focused on doing the job well.
 > What I appreciated most about Joey was that, despite that level of commitment, he was always kind, thoughtful, and easy to be around. We spent a lot of time talking about technology, high fantasy, and Dungeons & Dragons, and getting to know him outside of work made it even clearer how much he cares about his family, his friends, and the people around him. Any team would be lucky to have someone with his combination of dedication, intelligence, and character.
 
-Audio*: [Listen to this recommendation](https://joey-wilkes-home.vercel.app/assets/testimonials/daniel-liebelt.mp3)
-
 > I've never met someone more passionate and excited about data than Joey, and it was a real pleasure working with him. Joey was always eager to learn and take the next steps in our projects, and he did consistent great work even under difficult circumstances. Given the chance I would work with him again in a heartbeat.
-
-Audio*: [Listen to this recommendation](https://joey-wilkes-home.vercel.app/assets/testimonials/aaron-jacobson.wav)
 
 > I worked with Joey on a research project involving millions of simulations and large scale data analysis. Joey built a framework for generating and running experiments that interfaced with the resource manager on the supercomputer. He also automated much of the data visualization and analysis process. Both of these contributions culminated in a convenient, and efficient workflow for our team.
 >
 > Beyond technical accomplishments, Joey is dependable, kind and inclusive. His influence resulted in collaborative and supportive team culture. Working with Joey is exciting because he is passionate, drama-free because he is unpretentious and rewarding because he is committed.
 
-Audio*: [Listen to this recommendation](https://joey-wilkes-home.vercel.app/assets/testimonials/dj-passey.wav)
-
 > Joey went above and beyond during the MQ effort. To my knowledge, he wasn't required to stay after hours, yet he spent many late nights in the office working on MQ content. Thanks to his dedication, we now have a substantial amount of FinOps approach material and client deliverables to present to Gartner. Joey consistently demonstrates a strong commitment to team success and to the overall success of Anglepoint.
-
-Audio*: [Listen to this recommendation](https://joey-wilkes-home.vercel.app/assets/testimonials/anglepoint-mq.wav)
 
 > Joey is a standout employee. He tackles open-ended problems creatively and tenaciously, and he readily shares what he learns with others.
 > Over the last two years, he's become an invaluable peer mentor, helping colleagues find practical ways to use AI more efficiently in their everyday work and cheering them on each step of the way. Impressively, he consistently makes a point of recognizing others' accomplishments. Joey's technical ingenuity and collaborative spirit help both the company and its employees grow.
@@ -247,4 +279,4 @@ Audio*: [Listen to this recommendation](https://joey-wilkes-home.vercel.app/asse
 
 Machine-readable profile: https://joey-wilkes-home.vercel.app/profile.json
 Credential metadata checked: 2026-10-01.
-Résumé source: PDF dated 2026-10-11; latest employment end date: 2026-09.
+Résumé source: PDF dated 2026-11-25; latest employment end date: 2026-09.

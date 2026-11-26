@@ -635,27 +635,13 @@
     "count": 7,
     "quoteOnly": true,
     "automaticRotation": false,
-    "source": "shared-assets/testimonials/approved-quotes.json",
-    "audio": {
-      "count": 6,
-      "synthetic": true,
-      "generatedWith": "ElevenLabs Eleven v4 through OpenRouter",
-      "note": "Audio clips are synthetic voices generated with ElevenLabs (Eleven v4) through OpenRouter. They do not represent the actual voice of the person who gave the recommendation.",
-      "clips": [
-        "https://joey-wilkes-home.vercel.app/assets/testimonials/additional-recommendation.wav",
-        "https://joey-wilkes-home.vercel.app/assets/testimonials/pouya-jafarian.wav",
-        "https://joey-wilkes-home.vercel.app/assets/testimonials/daniel-liebelt.mp3",
-        "https://joey-wilkes-home.vercel.app/assets/testimonials/aaron-jacobson.wav",
-        "https://joey-wilkes-home.vercel.app/assets/testimonials/dj-passey.wav",
-        "https://joey-wilkes-home.vercel.app/assets/testimonials/anglepoint-mq.wav"
-      ]
-    }
+    "source": "shared-assets/testimonials/approved-quotes.json"
   },
   "source": {
     "resume": {
       "pdf": "joseph-wilkes-resume.pdf",
-      "pdfDate": "2026-10-11",
-      "retrievedDate": "2026-10-11",
+      "pdfDate": "2026-11-25",
+      "retrievedDate": "2026-11-25",
       "latestExperienceEndDate": "2026-09"
     },
     "content": "Imperial 3.0 / workspace shared-assets",
