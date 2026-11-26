@@ -31,10 +31,10 @@ December 2026 – Present | On-site in Maryland, USA
 
 #### Responsibilities from the job posting
 
-- Develop and maintain cost transparency for AI and machine learning workloads, including compute,storage, networking, model training, inference, and third-party AI platform usage.
-- Create and manage reporting,dashboards, and KPIs to track AI-related spend, utilization, efficiency, and business value across teams and use cases.
+- Develop and maintain cost transparency for AI and machine learning workloads, including compute, storage, networking, model training, inference, and third-party AI platform usage.
+- Create and manage reporting, dashboards, and KPIs to track AI-related spend, utilization, efficiency, and business value across teams and use cases.
 - Partner with architecture, engineering, platform, and data science teams to identify opportunities to improve cost, performance, and utilization of AI infrastructure and services.
-- Analyze AI workload consumption patterns and recommend optimization strategies related to:  (1) model selection and deployment approach (2) compute and GPU sizing (3) workload scheduling (4)storage lifecycle management (5) inference efficiency (6) vendor and API usage
+- Analyze AI workload consumption patterns and recommend optimization strategies related to: (1) model selection and deployment approach (2) compute and GPU sizing (3) workload scheduling (4) storage lifecycle management (5) inference efficiency (6) vendor and API usage
 - Support the design and implementation of showback and chargeback models for AI-related services to improve accountability and decision-making.
 - Build forecasting and budgeting models for AI platform usage, cloud consumption, and external vendor spend.
 - Help define and enforce lightweight governance standards for AI infrastructure, including tagging, budgeting, provisioning controls, usage monitoring, and lifecycle management.
@@ -56,17 +56,17 @@ December 2026 – Present | On-site in Maryland, USA
 - Proficiency in Python, SQL, or similar scripting/query languages.
 - Experience building dashboards, reports, or analytics to support cost transparency and operational decision-making.
 - Strong analytical and problem-solving skills with the ability to translate technical usage into financial and business insights.
-- Strong communication andcollaboration skills, with the ability to work effectively across technical, operational, and business teams.
+- Strong communication and collaboration skills, with the ability to work effectively across technical, operational, and business teams.
 
 #### Preferred qualifications
 
 - Experience supporting generative AI or large language model workloads, including token-based pricing models and inference cost optimization.
 - Familiarity with enterprise AI and data platforms such as Databricks, Snowflake, SageMaker, Azure ML, or similar technologies.
-- Understanding of GPU utilization,accelerator economics, and performance-cost tradeoff analysis.
+- Understanding of GPU utilization, accelerator economics, and performance-cost tradeoff analysis.
 - Knowledge of enterprise tagging, cost allocation, and budget governance practices.
 - Experience in a financial services or other highly regulated environment.
 - Familiarity with enterprise risk, security, and control expectations related to technology and data platforms.
-- Relevant certifications in cloud platforms, FinOps, TechnologyBusiness Management or infrastructure engineering.
+- Relevant certifications in cloud platforms, FinOps, Technology Business Management or infrastructure engineering.
 
 ### Data Scientist & Data Science Consultant, Product Office — Anglepoint
 
