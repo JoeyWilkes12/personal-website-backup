@@ -1,6 +1,6 @@
-:HL["/personal-website-backup/_next/static/css/b1ebfa55a126543b.css","style"]
+:HL["/personal-website-backup/_next/static/chunks/1y8udbnmc9rxy.css","style"]
 4:[["children",{"s":"__PAGE__","h":160}]]
 3:[["children",{"s":{"n":"id","t":"d","k":"ai-value-introduction","s":[]},"h":65632,"c":"$Q4"}]]
 2:[["children",{"s":"certifications","h":131168,"c":"$Q3"}]]
 1:[["children",{"s":"professional-experience","h":131168,"c":"$Q2"}]]
-0:{"b":"_OSYdvpEbFZEFEVnbgIxr","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
+0:{"b":"R3Y9U_D_Jg3bhntBgR_5T","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
